@@ -1,4 +1,30 @@
 # Converting_Genome_Coordinates_pipeline
+# CoordTransfer - основной скрипт для перевода координат и заполнения таблицы
+## Установка
+Скачивание:
+```
+wget https://github.com/erofeeva-plastilin/Converting_Genome_Coordinates_pipeline.git
+```
+Установка зависимостей:
+```
+conda env create -f CoordTransfer_env.yml
+conda activate CoordTransfer_env
+```
+## Описание CoordTransfer
+
+## Пример запуска CoordTransfer
+
+## Сравнение CoordTransfer с SNPLift
+
+# Make_chain - дополнительный скрипт для создания chain-файлов вручную
+Установка зависимостей:
+```
+conda env create -f CGCp_env.yml
+conda activate CGCp_env
+```
+## Описание Make_chain
+
+## Пример запуска Make_chain
 ```
 conda activate CGCp_env
 mkdir -p /mnt/users/erofeevan/pyoverchain_workdir
