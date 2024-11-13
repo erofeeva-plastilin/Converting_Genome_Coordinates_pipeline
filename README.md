@@ -3,14 +3,16 @@
 ## Установка
 Скачивание:
 ```
-wget https://github.com/erofeeva-plastilin/Converting_Genome_Coordinates_pipeline.git
+git clone https://github.com/erofeeva-plastilin/Converting_Genome_Coordinates_pipeline.git
 ```
 Установка зависимостей:
 ```
+cd CoordTransfer
 conda env create -f CoordTransfer_env.yml
 conda activate CoordTransfer_env
 ```
 ## Описание CoordTransfer
+CoordTransfer на вход принимает обычную табличку (в ней должны быть фиксированы названия или номера столбцов) и название исходной сборки из списка (для нее есть chain файл), делает bed файл, переводит координаты и вносит полученные значения в табличку в те специальные колонки
 
 ## Пример запуска CoordTransfer
 
