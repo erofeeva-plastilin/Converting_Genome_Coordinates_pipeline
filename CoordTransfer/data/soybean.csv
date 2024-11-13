@@ -1,337 +1,319 @@
-russian_name;species;english_name;genome_version_original;marker_type;chr;chr_original;pos_original;pos_original_end;genome_version;chr_id;pos_start;pos_end;ref;alt;minor_allele;country;region;feature_category;feature;analysis_tool;value;a1;p_value;pos_in_gene;impact;geneid;gene_description;year;source;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;6;Gm06;399885;399885;Glycine_max_v4.0;;;;C;T;T;;;Protein;Amino_acid_content_Ala;CMLM_Gapit;;T;0.057955;;-0.28382;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;7;Gm07;39077446;39077446;Glycine_max_v4.0;;;;A;G;G;;;Protein;Amino_acid_content_Ala;CMLM_Gapit;;G;0.000504;;-0.48338;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;8;Gm08;14156183;14156183;Glycine_max_v4.0;;;;T;A;T;;;Protein;Amino_acid_content_Ala;CMLM_Gapit;;T;0.025533;;0.623892;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;9;Gm09;43473530;43473530;Glycine_max_v4.0;;;;A;C;C;;;Protein;Amino_acid_content_Ala;CMLM_Gapit;;C;0.00416;;0.414154;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;9;Gm09;43488824;43488824;Glycine_max_v4.0;;;;A;T;T;;;Protein;Amino_acid_content_Ala;CMLM_Gapit;;T;0.002494;;0.436963;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;10;Gm10;12029489;12029489;Glycine_max_v4.0;;;;T;C;C;;;Protein;Amino_acid_content_Ala;CMLM_Gapit;;C;0.001467;;0.619607;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;10;Gm10;46037954;46037954;Glycine_max_v4.0;;;;C;T;T;;;Protein;Amino_acid_content_Ala;CMLM_Gapit;;T;0.092424;;0.361292;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;13;Gm13;21758530;21758530;Glycine_max_v4.0;;;;A;T;T;;;Protein;Amino_acid_content_Ala;CMLM_Gapit;;T;0.000886;;0.910935;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;19;Gm19;34599708;34599708;Glycine_max_v4.0;;;;G;A;A;;;Protein;Amino_acid_content_Ala;CMLM_Gapit;;A;0.000404;;0.588507;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;19;Gm19;36853376;36853376;Glycine_max_v4.0;;;;C;T;T;;;Protein;Amino_acid_content_Ala;CMLM_Gapit;;T;0.000287;;0.70181;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;19;Gm19;36856526;36856526;Glycine_max_v4.0;;;;C;T;T;;;Protein;Amino_acid_content_Ala;CMLM_Gapit;;T;0.000153;;0.688893;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;2;Gm02;50224425;50224425;Glycine_max_v4.0;;;;T;C;C;;;Protein;Amino_acid_content_Arg;CMLM_Gapit;;C;0.029835;;-0.71869;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;2;Gm02;50269310;50269310;Glycine_max_v4.0;;;;C;A;A;;;Protein;Amino_acid_content_Arg;CMLM_Gapit;;A;0.030224;;-0.70106;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;3;Gm03;6537448;6537448;Glycine_max_v4.0;;;;C;T;T;;;Protein;Amino_acid_content_Arg;CMLM_Gapit;;T;0.001894;;-1.5651;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;6;Gm06;1655912;1655912;Glycine_max_v4.0;;;;T;G;G;;;Protein;Amino_acid_content_Arg;CMLM_Gapit;;G;0.00896;;0.875359;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;7;Gm07;3811476;3811476;Glycine_max_v4.0;;;;A;G;G;;;Protein;Amino_acid_content_Arg;CMLM_Gapit;;G;0.02231;;0.800312;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;7;Gm07;5923593;5923593;Glycine_max_v4.0;;;;;;;;;Protein;Amino_acid_content_Arg;CMLM_Gapit;;;0.071342;;0.489041;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;10;Gm10;47770916;47770916;Glycine_max_v4.0;;;;G;T;T;;;Protein;Amino_acid_content_Arg;CMLM_Gapit;;T;0.023037;;0.677589;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;10;Gm10;4877563;4877563;Glycine_max_v4.0;;;;T;G;G;;;Protein;Amino_acid_content_Arg;CMLM_Gapit;;G;0.066175;;0.619929;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;10;Gm10;4877661;4877661;Glycine_max_v4.0;;;;C;T;T;;;Protein;Amino_acid_content_Arg;CMLM_Gapit;;T;0.066175;;0.619929;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;10;Gm10;6088950;6088950;Glycine_max_v4.0;;;;A;T;T;;;Protein;Amino_acid_content_Arg;CMLM_Gapit;;T;0.000321;;1.392324;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;10;Gm10;6127825;6127825;Glycine_max_v4.0;;;;C;T;T;;;Protein;Amino_acid_content_Arg;CMLM_Gapit;;T;0.001528;;1.224071;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;10;Gm10;6158335;6158335;Glycine_max_v4.0;;;;A;G;G;;;Protein;Amino_acid_content_Arg;CMLM_Gapit;;G;0.0008;;1.312934;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;12;Gm12;4525326;4525326;Glycine_max_v4.0;;;;A;T;T;;;Protein;Amino_acid_content_Arg;CMLM_Gapit;;T;0.010165;;-0.98463;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;12;Gm12;4525341;4525341;Glycine_max_v4.0;;;;C;G;G;;;Protein;Amino_acid_content_Arg;CMLM_Gapit;;G;0.007485;;-1.07392;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;13;Gm13;22508206;22508206;Glycine_max_v4.0;;;;A;T;T;;;Protein;Amino_acid_content_Arg;CMLM_Gapit;;T;0.001391;;1.870219;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;13;Gm13;7762318;7762318;Glycine_max_v4.0;;;;A;T;A;;;Protein;Amino_acid_content_Arg;CMLM_Gapit;;A;0.015598;;0.767584;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;14;Gm14;670550;670550;Glycine_max_v4.0;;;;A;T;T;;;Protein;Amino_acid_content_Arg;CMLM_Gapit;;T;0.00141;;1.274518;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;14;Gm14;670770;670770;Glycine_max_v4.0;;;;A;G;G;;;Protein;Amino_acid_content_Arg;CMLM_Gapit;;G;0.000594;;1.375554;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;16;Gm16;32344691;32344691;Glycine_max_v4.0;;;;A;G;G;;;Protein;Amino_acid_content_Arg;CMLM_Gapit;;G;0.000112;;1.211759;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;16;Gm16;32636611;32636611;Glycine_max_v4.0;;;;A;G;A;;;Protein;Amino_acid_content_Arg;CMLM_Gapit;;A;0.000285;;-1.02604;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;16;Gm16;32891444;32891444;Glycine_max_v4.0;;;;T;C;C;;;Protein;Amino_acid_content_Arg;CMLM_Gapit;;C;0.000178;;1.31797;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;16;Gm16;33487136;33487136;Glycine_max_v4.0;;;;G;A;A;;;Protein;Amino_acid_content_Arg;CMLM_Gapit;;A;0.00234;;1.589216;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;16;Gm16;33595082;33595082;Glycine_max_v4.0;;;;T;C;C;;;Protein;Amino_acid_content_Arg;CMLM_Gapit;;C;0.002954;;1.268857;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;16;Gm16;33761779;33761779;Glycine_max_v4.0;;;;C;T;T;;;Protein;Amino_acid_content_Arg;CMLM_Gapit;;T;0.000976;;1.609801;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;16;Gm16;33853366;33853366;Glycine_max_v4.0;;;;C;T;T;;;Protein;Amino_acid_content_Arg;CMLM_Gapit;;T;0.00417;;1.256879;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;17;Gm17;37712338;37712338;Glycine_max_v4.0;;;;C;G;G;;;Protein;Amino_acid_content_Arg;CMLM_Gapit;;G;0.000974;;1.133215;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;18;Gm18;55570016;55570016;Glycine_max_v4.0;;;;A;G;G;;;Protein;Amino_acid_content_Arg;CMLM_Gapit;;G;0.000959;;1.387074;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;18;Gm18;57994827;57994827;Glycine_max_v4.0;;;;C;T;T;;;Protein;Amino_acid_content_Arg;CMLM_Gapit;;T;0.007621;;-0.78784;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;18;Gm18;57994865;57994865;Glycine_max_v4.0;;;;C;A;A;;;Protein;Amino_acid_content_Arg;CMLM_Gapit;;A;0.007621;;-0.78784;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;2;Gm02;6721375;6721375;Glycine_max_v4.0;;;;G;A;A;;;Protein;Amino_acid_content_Asp;CMLM_Gapit;;A;0.128024;;-0.72269;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;7;Gm07;36388230;36388230;Glycine_max_v4.0;;;;T;A;A;;;Protein;Amino_acid_content_Asp;CMLM_Gapit;;A;0.038325;;-1.48315;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;8;Gm08;45648867;45648867;Glycine_max_v4.0;;;;C;G;C;;;Protein;Amino_acid_content_Asp;CMLM_Gapit;;C;8.15E-06;;-1.88314;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;9;Gm09;43488824;43488824;Glycine_max_v4.0;;;;A;T;T;;;Protein;Amino_acid_content_Asp;CMLM_Gapit;;T;0.002471;;1.265549;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;10;Gm10;48103776;48103776;Glycine_max_v4.0;;;;T;A;A;;;Protein;Amino_acid_content_Asp;CMLM_Gapit;;A;0.373248;;-0.46689;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;13;Gm13;17646967;17646967;Glycine_max_v4.0;;;;T;C;C;;;Protein;Amino_acid_content_Asp;CMLM_Gapit;;C;0.000528;;3.123782;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;13;Gm13;21744787;21744787;Glycine_max_v4.0;;;;C;T;T;;;Protein;Amino_acid_content_Asp;CMLM_Gapit;;T;0.001369;;2.798664;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;13;Gm13;21758530;21758530;Glycine_max_v4.0;;;;A;T;T;;;Protein;Amino_acid_content_Asp;CMLM_Gapit;;T;0.000139;;3.172402;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;16;Gm16;33670373;33670373;Glycine_max_v4.0;;;;G;C;C;;;Protein;Amino_acid_content_Asp;CMLM_Gapit;;C;0.000461;;2.10161;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;5;Gm05;1956615;1956615;Glycine_max_v4.0;;;;T;C;C;;;Protein;Amino_acid_content_Glu;CMLM_Gapit;;C;0.000996;;2.659955173;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;6;Gm06;20941559;20941559;Glycine_max_v4.0;;;;T;C;C;;;Protein;Amino_acid_content_Glu;CMLM_Gapit;;C;0.007699;;2.061147777;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;7;Gm07;36390103;36390103;Glycine_max_v4.0;;;;G;A;A;;;Protein;Amino_acid_content_Glu;CMLM_Gapit;;A;0.083077;;-1.060110176;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;7;Gm07;36524487;36524487;Glycine_max_v4.0;;;;G;T;T;;;Protein;Amino_acid_content_Glu;CMLM_Gapit;;T;0.002878;;-2.591253343;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;7;Gm07;36542987;36542987;Glycine_max_v4.0;;;;G;A;A;;;Protein;Amino_acid_content_Glu;CMLM_Gapit;;A;0.000461;;-3.046286683;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;7;Gm07;36543902;36543902;Glycine_max_v4.0;;;;C;A;A;;;Protein;Amino_acid_content_Glu;CMLM_Gapit;;A;0.000853;;-2.873031071;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;7;Gm07;36633143;36633143;Glycine_max_v4.0;;;;G;A;A;;;Protein;Amino_acid_content_Glu;CMLM_Gapit;;A;0.003492;;-1.773444644;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;7;Gm07;36633260;36633260;Glycine_max_v4.0;;;;G;A;A;;;Protein;Amino_acid_content_Glu;CMLM_Gapit;;A;0.003492;;-1.773444644;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;8;Gm08;14156183;14156183;Glycine_max_v4.0;;;;T;A;T;;;Protein;Amino_acid_content_Glu;CMLM_Gapit;;T;0.033442;;2.585934786;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;8;Gm08;1969577;1969577;Glycine_max_v4.0;;;;T;C;C;;;Protein;Amino_acid_content_Glu;CMLM_Gapit;;C;0.000526;;-2.117203707;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;8;Gm08;8091680;8091680;Glycine_max_v4.0;;;;C;A;A;;;Protein;Amino_acid_content_Glu;CMLM_Gapit;;A;0.000525;;-3.007533821;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;10;Gm10;46037693;46037693;Glycine_max_v4.0;;;;A;G;G;;;Protein;Amino_acid_content_Glu;CMLM_Gapit;;G;0.021841;;1.976212948;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;10;Gm10;46037954;46037954;Glycine_max_v4.0;;;;C;T;T;;;Protein;Amino_acid_content_Glu;CMLM_Gapit;;T;0.026286;;2.080017748;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;10;Gm10;46045322;46045322;Glycine_max_v4.0;;;;A;T;T;;;Protein;Amino_acid_content_Glu;CMLM_Gapit;;T;0.043724;;1.839404588;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;10;Gm10;48103776;48103776;Glycine_max_v4.0;;;;T;A;A;;;Protein;Amino_acid_content_Glu;CMLM_Gapit;;A;0.022308;;-1.861346026;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;10;Gm10;50892012;50892012;Glycine_max_v4.0;;;;T;C;C;;;Protein;Amino_acid_content_Glu;CMLM_Gapit;;C;0.002651;;2.432540958;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;10;Gm10;50945017;50945017;Glycine_max_v4.0;;;;C;G;G;;;Protein;Amino_acid_content_Glu;CMLM_Gapit;;G;0.00175;;2.41312883;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;10;Gm10;50945124;50945124;Glycine_max_v4.0;;;;C;T;T;;;Protein;Amino_acid_content_Glu;CMLM_Gapit;;T;0.004726;;2.210425154;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;13;Gm13;21744787;21744787;Glycine_max_v4.0;;;;C;T;T;;;Protein;Amino_acid_content_Glu;CMLM_Gapit;;T;0.014051;;3.033142977;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;14;Gm14;42728555;42728555;Glycine_max_v4.0;;;;C;A;A;;;Protein;Amino_acid_content_Glu;CMLM_Gapit;;A;0.00463;;2.652100914;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;14;Gm14;42900467;42900467;Glycine_max_v4.0;;;;;;;;;Protein;Amino_acid_content_Glu;CMLM_Gapit;;;0.00463;;2.652100914;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;14;Gm14;43163207;43163207;Glycine_max_v4.0;;;;C;T;T;;;Protein;Amino_acid_content_Glu;CMLM_Gapit;;T;0.002116;;2.959559113;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;14;Gm14;43163233;43163233;Glycine_max_v4.0;;;;C;T;T;;;Protein;Amino_acid_content_Glu;CMLM_Gapit;;T;0.002116;;2.959559113;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;14;Gm14;43163234;43163234;Glycine_max_v4.0;;;;A;G;G;;;Protein;Amino_acid_content_Glu;CMLM_Gapit;;G;0.000678;;3.163378122;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;14;Gm14;43163255;43163255;Glycine_max_v4.0;;;;T;C;C;;;Protein;Amino_acid_content_Glu;CMLM_Gapit;;C;0.000678;;3.163378122;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;14;Gm14;43163263;43163263;Glycine_max_v4.0;;;;G;A;A;;;Protein;Amino_acid_content_Glu;CMLM_Gapit;;A;0.002116;;2.959559113;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;14;Gm14;43163268;43163268;Glycine_max_v4.0;;;;A;G;G;;;Protein;Amino_acid_content_Glu;CMLM_Gapit;;G;0.000678;;3.163378122;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;14;Gm14;43163302;43163302;Glycine_max_v4.0;;;;C;A;A;;;Protein;Amino_acid_content_Glu;CMLM_Gapit;;A;0.002116;;2.959559113;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;14;Gm14;43163309;43163309;Glycine_max_v4.0;;;;C;G;G;;;Protein;Amino_acid_content_Glu;CMLM_Gapit;;G;0.002116;;2.959559113;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;14;Gm14;43163317;43163317;Glycine_max_v4.0;;;;C;G;G;;;Protein;Amino_acid_content_Glu;CMLM_Gapit;;G;0.000678;;3.163378122;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;18;Gm18;1449038;1449038;Glycine_max_v4.0;;;;T;C;C;;;Protein;Amino_acid_content_Glu;CMLM_Gapit;;C;6.22E-05;;-3.397233429;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;18;Gm18;1564092;1564092;Glycine_max_v4.0;;;;A;T;T;;;Protein;Amino_acid_content_Glu;CMLM_Gapit;;T;0.000101;;-4.020945797;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;19;Gm19;36856526;36856526;Glycine_max_v4.0;;;;C;T;T;;;Protein;Amino_acid_content_Glu;CMLM_Gapit;;T;3.68E-05;;3.279696679;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;19;Gm19;41048945;41048945;Glycine_max_v4.0;;;;A;G;G;;;Protein;Amino_acid_content_Glu;CMLM_Gapit;;G;0.001216;;-3.15207129;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;1;Gm01;53597652;53597652;Glycine_max_v4.0;;;;G;A;A;;;Protein;Amino_acid_content_Gly;CMLM_Gapit;;A;0.03092;;0.434841;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;2;Gm02;6671113;6671113;Glycine_max_v4.0;;;;A;G;G;;;Protein;Amino_acid_content_Gly;CMLM_Gapit;;G;0.101324;;-0.60924;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;2;Gm02;6721375;6721375;Glycine_max_v4.0;;;;G;A;A;;;Protein;Amino_acid_content_Gly;CMLM_Gapit;;A;0.404328;;-0.194;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;4;Gm04;29795804;29795804;Glycine_max_v4.0;;;;T;G;G;;;Protein;Amino_acid_content_Gly;CMLM_Gapit;;G;0.024866;;-0.4724;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;4;Gm04;43205897;43205897;Glycine_max_v4.0;;;;C;T;T;;;Protein;Amino_acid_content_Gly;CMLM_Gapit;;T;0.002236;;1.755098;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;4;Gm04;43205900;43205900;Glycine_max_v4.0;;;;G;A;A;;;Protein;Amino_acid_content_Gly;CMLM_Gapit;;A;0.002236;;1.755098;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;4;Gm04;43207187;43207187;Glycine_max_v4.0;;;;C;T;T;;;Protein;Amino_acid_content_Gly;CMLM_Gapit;;T;0.025031;;1.101549;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;4;Gm04;43207248;43207248;Glycine_max_v4.0;;;;G;A;A;;;Protein;Amino_acid_content_Gly;CMLM_Gapit;;A;0.025031;;1.101549;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;4;Gm04;43247307;43247307;Glycine_max_v4.0;;;;C;A;A;;;Protein;Amino_acid_content_Gly;CMLM_Gapit;;A;0.002236;;1.755098;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;4;Gm04;43247365;43247365;Glycine_max_v4.0;;;;G;A;A;;;Protein;Amino_acid_content_Gly;CMLM_Gapit;;A;0.002236;;1.755098;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;5;Gm05;1364762;1364762;Glycine_max_v4.0;;;;A;T;T;;;Protein;Amino_acid_content_Gly;CMLM_Gapit;;T;0.001344;;0.734461;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;6;Gm06;289575;289575;Glycine_max_v4.0;;;;T;C;C;;;Protein;Amino_acid_content_Gly;CMLM_Gapit;;C;0.048647;;-0.40632;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;6;Gm06;399885;399885;Glycine_max_v4.0;;;;C;T;T;;;Protein;Amino_acid_content_Gly;CMLM_Gapit;;T;0.040104;;-0.41777;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;6;Gm06;46691924;46691924;Glycine_max_v4.0;;;;T;G;G;;;Protein;Amino_acid_content_Gly;CMLM_Gapit;;G;0.099887;;-0.32957;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;6;Gm06;48405502;48405502;Glycine_max_v4.0;;;;G;A;A;;;Protein;Amino_acid_content_Gly;CMLM_Gapit;;A;0.002447;;0.955432;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;6;Gm06;49021688;49021688;Glycine_max_v4.0;;;;G;A;A;;;Protein;Amino_acid_content_Gly;CMLM_Gapit;;A;1.21E-06;;2.77146;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;6;Gm06;582930;582930;Glycine_max_v4.0;;;;C;T;T;;;Protein;Amino_acid_content_Gly;CMLM_Gapit;;T;0.074927;;-0.36009;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;7;Gm07;3374472;3374472;Glycine_max_v4.0;;;;T;C;T;;;Protein;Amino_acid_content_Gly;CMLM_Gapit;;T;0.008218;;0.590257;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;7;Gm07;3374492;3374492;Glycine_max_v4.0;;;;C;T;C;;;Protein;Amino_acid_content_Gly;CMLM_Gapit;;C;0.026263;;0.484051;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;8;Gm08;8480396;8480396;Glycine_max_v4.0;;;;A;C;C;;;Protein;Amino_acid_content_Gly;CMLM_Gapit;;C;0.000284;;1.171206;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;8;Gm08;8538031;8538031;Glycine_max_v4.0;;;;T;C;C;;;Protein;Amino_acid_content_Gly;CMLM_Gapit;;C;0.000396;;1.172309;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;14;Gm14;28719225;28719225;Glycine_max_v4.0;;;;A;G;G;;;Protein;Amino_acid_content_Gly;CMLM_Gapit;;G;0.004256;;1.621991;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;15;Gm15;6364620;6364620;Glycine_max_v4.0;;;;C;T;T;;;Protein;Amino_acid_content_Gly;CMLM_Gapit;;T;0.042469;;0.664218;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;15;Gm15;6364624;6364624;Glycine_max_v4.0;;;;A;C;C;;;Protein;Amino_acid_content_Gly;CMLM_Gapit;;C;0.021932;;0.768057;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;15;Gm15;6364658;6364658;Glycine_max_v4.0;;;;A;G;G;;;Protein;Amino_acid_content_Gly;CMLM_Gapit;;G;0.021932;;0.768057;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;15;Gm15;6364660;6364660;Glycine_max_v4.0;;;;A;T;T;;;Protein;Amino_acid_content_Gly;CMLM_Gapit;;T;0.022388;;0.747436;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;15;Gm15;6364671;6364671;Glycine_max_v4.0;;;;C;T;T;;;Protein;Amino_acid_content_Gly;CMLM_Gapit;;T;0.021932;;0.768057;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;18;Gm18;58356668;58356668;Glycine_max_v4.0;;;;A;G;G;;;Protein;Amino_acid_content_Gly;CMLM_Gapit;;G;0.016303;;0.768171;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;20;Gm20;42531505;42531505;Glycine_max_v4.0;;;;C;G;G;;;Protein;Amino_acid_content_Gly;CMLM_Gapit;;G;0.031504;;1.190845;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;1;Gm01;571041;571041;Glycine_max_v4.0;;;;T;G;G;;;Protein;Amino_acid_content_His;CMLM_Gapit;;G;0.014758;;0.279658;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;1;Gm01;571048;571048;Glycine_max_v4.0;;;;A;G;G;;;Protein;Amino_acid_content_His;CMLM_Gapit;;G;0.014758;;0.279658;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;2;Gm02;45763574;45763574;Glycine_max_v4.0;;;;T;A;A;;;Protein;Amino_acid_content_His;CMLM_Gapit;;A;0.003516;;0.165866;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;3;Gm03;6537448;6537448;Glycine_max_v4.0;;;;C;T;T;;;Protein;Amino_acid_content_His;CMLM_Gapit;;T;0.005261;;-0.27634;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;6;Gm06;48160139;48160139;Glycine_max_v4.0;;;;A;G;G;;;Protein;Amino_acid_content_His;CMLM_Gapit;;G;0.029581;;0.181504;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;10;Gm10;48103776;48103776;Glycine_max_v4.0;;;;T;A;A;;;Protein;Amino_acid_content_His;CMLM_Gapit;;A;0.080759;;-0.12903;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;13;Gm13;41203949;41203949;Glycine_max_v4.0;;;;C;T;C;;;Protein;Amino_acid_content_His;CMLM_Gapit;;C;0.000373;;-0.20748;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;15;Gm15;46888773;46888773;Glycine_max_v4.0;;;;C;T;C;;;Protein;Amino_acid_content_His;CMLM_Gapit;;C;0.032387;;-0.12431;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;16;Gm16;33487136;33487136;Glycine_max_v4.0;;;;G;A;A;;;Protein;Amino_acid_content_His;CMLM_Gapit;;A;0.003193;;0.298916;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;16;Gm16;33595082;33595082;Glycine_max_v4.0;;;;T;C;C;;;Protein;Amino_acid_content_His;CMLM_Gapit;;C;0.002534;;0.253037;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;16;Gm16;33761779;33761779;Glycine_max_v4.0;;;;C;T;T;;;Protein;Amino_acid_content_His;CMLM_Gapit;;T;0.001271;;0.306635;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;16;Gm16;33853366;33853366;Glycine_max_v4.0;;;;C;T;T;;;Protein;Amino_acid_content_His;CMLM_Gapit;;T;0.006722;;0.232792;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;16;Gm16;35244130;35244130;Glycine_max_v4.0;;;;T;C;C;;;Protein;Amino_acid_content_His;CMLM_Gapit;;C;0.008012;;0.135816;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;16;Gm16;6737154;6737154;Glycine_max_v4.0;;;;T;C;T;;;Protein;Amino_acid_content_His;CMLM_Gapit;;T;0.027957;;-0.14242;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;17;Gm17;37708047;37708047;Glycine_max_v4.0;;;;A;G;G;;;Protein;Amino_acid_content_His;CMLM_Gapit;;G;0.000731;;0.235185;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;17;Gm17;37708072;37708072;Glycine_max_v4.0;;;;A;G;G;;;Protein;Amino_acid_content_His;CMLM_Gapit;;G;0.000981;;0.228423;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;17;Gm17;37708077;37708077;Glycine_max_v4.0;;;;G;A;A;;;Protein;Amino_acid_content_His;CMLM_Gapit;;A;0.000981;;0.228423;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;17;Gm17;37708117;37708117;Glycine_max_v4.0;;;;T;C;C;;;Protein;Amino_acid_content_His;CMLM_Gapit;;C;0.000463;;0.240406;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;20;Gm20;31387086;31387086;Glycine_max_v4.0;;;;G;A;G;;;Protein;Amino_acid_content_His;CMLM_Gapit;;G;0.002157;;-0.21217;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;1;Gm01;33262451;33262451;Glycine_max_v4.0;;;;T;C;C;;;Protein;Amino_acid_content_Ile;CMLM_Gapit;;C;0.144421;;0.727668;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;1;Gm01;45320366;45320366;Glycine_max_v4.0;;;;T;C;C;;;Protein;Amino_acid_content_Ile;CMLM_Gapit;;C;0.000341;;-1.99542;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;2;Gm02;47034495;47034495;Glycine_max_v4.0;;;;C;T;C;;;Protein;Amino_acid_content_Ile;CMLM_Gapit;;C;0.000793;;1.305553;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;2;Gm02;49856130;49856130;Glycine_max_v4.0;;;;G;A;G;;;Protein;Amino_acid_content_Ile;CMLM_Gapit;;G;0.008836;;-0.98208;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;2;Gm02;5190606;5190606;Glycine_max_v4.0;;;;G;C;C;;;Protein;Amino_acid_content_Ile;CMLM_Gapit;;C;0.01696;;0.910266;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;2;Gm02;6721375;6721375;Glycine_max_v4.0;;;;G;A;A;;;Protein;Amino_acid_content_Ile;CMLM_Gapit;;A;0.277955;;0.449633;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;4;Gm04;29795804;29795804;Glycine_max_v4.0;;;;T;G;G;;;Protein;Amino_acid_content_Ile;CMLM_Gapit;;G;0.02951;;0.822221;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;4;Gm04;43207187;43207187;Glycine_max_v4.0;;;;C;T;T;;;Protein;Amino_acid_content_Ile;CMLM_Gapit;;T;0.005282;;-2.45462;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;4;Gm04;43207248;43207248;Glycine_max_v4.0;;;;G;A;A;;;Protein;Amino_acid_content_Ile;CMLM_Gapit;;A;0.005282;;-2.45462;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;4;Gm04;45172948;45172948;Glycine_max_v4.0;;;;G;C;C;;;Protein;Amino_acid_content_Ile;CMLM_Gapit;;C;0.013087;;-0.95497;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;5;Gm05;21977894;21977894;Glycine_max_v4.0;;;;C;A;A;;;Protein;Amino_acid_content_Ile;CMLM_Gapit;;A;0.034204;;-0.77972;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;10;Gm10;44070578;44070578;Glycine_max_v4.0;;;;A;C;A;;;Protein;Amino_acid_content_Ile;CMLM_Gapit;;A;0.592013;;0.21727;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;10;Gm10;45237186;45237186;Glycine_max_v4.0;;;;G;C;C;;;Protein;Amino_acid_content_Ile;CMLM_Gapit;;C;0.000106;;-1.43648;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;11;Gm11;38372080;38372080;Glycine_max_v4.0;;;;T;A;A;;;Protein;Amino_acid_content_Ile;CMLM_Gapit;;A;0.000965;;-1.46629;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;12;Gm12;1283279;1283279;Glycine_max_v4.0;;;;T;G;G;;;Protein;Amino_acid_content_Ile;CMLM_Gapit;;G;0.037989;;-0.76339;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;12;Gm12;2246393;2246393;Glycine_max_v4.0;;;;T;G;T;;;Protein;Amino_acid_content_Ile;CMLM_Gapit;;T;0.001055;;-1.35801;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;12;Gm12;37250318;37250318;Glycine_max_v4.0;;;;A;C;C;;;Protein;Amino_acid_content_Ile;CMLM_Gapit;;C;0.931741;;0.031077;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;12;Gm12;37253606;37253606;Glycine_max_v4.0;;;;G;C;C;;;Protein;Amino_acid_content_Ile;CMLM_Gapit;;C;0.000412;;-1.70481;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;12;Gm12;9802063;9802063;Glycine_max_v4.0;;;;G;T;T;;;Protein;Amino_acid_content_Ile;CMLM_Gapit;;T;0.265051;;0.417914;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;13;Gm13;17646967;17646967;Glycine_max_v4.0;;;;T;C;C;;;Protein;Amino_acid_content_Ile;CMLM_Gapit;;C;0.001758;;-2.49026;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;13;Gm13;39627980;39627980;Glycine_max_v4.0;;;;G;A;G;;;Protein;Amino_acid_content_Ile;CMLM_Gapit;;G;0.028074;;-0.95997;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;13;Gm13;39627983;39627983;Glycine_max_v4.0;;;;C;G;C;;;Protein;Amino_acid_content_Ile;CMLM_Gapit;;C;0.028074;;-0.95997;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;13;Gm13;39627986;39627986;Glycine_max_v4.0;;;;T;C;T;;;Protein;Amino_acid_content_Ile;CMLM_Gapit;;T;0.028074;;-0.95997;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;13;Gm13;39628010;39628010;Glycine_max_v4.0;;;;T;A;T;;;Protein;Amino_acid_content_Ile;CMLM_Gapit;;T;0.020928;;-1.01739;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;13;Gm13;39628014;39628014;Glycine_max_v4.0;;;;A;G;A;;;Protein;Amino_acid_content_Ile;CMLM_Gapit;;A;0.020928;;-1.01739;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;13;Gm13;39628016;39628016;Glycine_max_v4.0;;;;C;A;C;;;Protein;Amino_acid_content_Ile;CMLM_Gapit;;C;0.042764;;-0.89815;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;13;Gm13;39628019;39628019;Glycine_max_v4.0;;;;C;T;C;;;Protein;Amino_acid_content_Ile;CMLM_Gapit;;C;0.020928;;-1.01739;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;13;Gm13;39628049;39628049;Glycine_max_v4.0;;;;A;G;A;;;Protein;Amino_acid_content_Ile;CMLM_Gapit;;A;0.01928;;-1.11753;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;13;Gm13;39628054;39628054;Glycine_max_v4.0;;;;G;T;G;;;Protein;Amino_acid_content_Ile;CMLM_Gapit;;G;0.01928;;-1.11753;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;16;Gm16;19302037;19302037;Glycine_max_v4.0;;;;G;A;A;;;Protein;Amino_acid_content_Ile;CMLM_Gapit;;A;0.009948;;-2.74157;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;16;Gm16;19309923;19309923;Glycine_max_v4.0;;;;C;T;T;;;Protein;Amino_acid_content_Ile;CMLM_Gapit;;T;0.014188;;-2.31658;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;16;Gm16;19310296;19310296;Glycine_max_v4.0;;;;G;A;A;;;Protein;Amino_acid_content_Ile;CMLM_Gapit;;A;0.014188;;-2.31658;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;16;Gm16;19474288;19474288;Glycine_max_v4.0;;;;C;T;T;;;Protein;Amino_acid_content_Ile;CMLM_Gapit;;T;0.045823;;-2.03133;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;16;Gm16;27656811;27656811;Glycine_max_v4.0;;;;C;T;T;;;Protein;Amino_acid_content_Ile;CMLM_Gapit;;T;0.000425;;1.433213;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;16;Gm16;27675722;27675722;Glycine_max_v4.0;;;;A;T;T;;;Protein;Amino_acid_content_Ile;CMLM_Gapit;;T;0.005476;;1.196072;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;16;Gm16;28109123;28109123;Glycine_max_v4.0;;;;C;T;T;;;Protein;Amino_acid_content_Ile;CMLM_Gapit;;T;0.070685;;0.649444;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;16;Gm16;780258;780258;Glycine_max_v4.0;;;;C;A;C;;;Protein;Amino_acid_content_Ile;CMLM_Gapit;;C;0.00454;;1.073231;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;18;Gm18;1231280;1231280;Glycine_max_v4.0;;;;G;T;T;;;Protein;Amino_acid_content_Ile;CMLM_Gapit;;T;0.280373;;-0.41422;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;18;Gm18;23446982;23446982;Glycine_max_v4.0;;;;C;T;T;;;Protein;Amino_acid_content_Ile;CMLM_Gapit;;T;0.989535;;0.009088;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;18;Gm18;23680823;23680823;Glycine_max_v4.0;;;;G;A;A;;;Protein;Amino_acid_content_Ile;CMLM_Gapit;;A;0.527938;;0.433926;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;18;Gm18;45637951;45637951;Glycine_max_v4.0;;;;A;C;C;;;Protein;Amino_acid_content_Ile;CMLM_Gapit;;C;0.087349;;0.864464;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;19;Gm19;14283927;14283927;Glycine_max_v4.0;;;;C;T;T;;;Protein;Amino_acid_content_Ile;CMLM_Gapit;;T;0.000336;;-1.60184;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;19;Gm19;35491961;35491961;Glycine_max_v4.0;;;;C;T;T;;;Protein;Amino_acid_content_Ile;CMLM_Gapit;;T;0.084265;;0.674954;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;19;Gm19;35491974;35491974;Glycine_max_v4.0;;;;G;T;T;;;Protein;Amino_acid_content_Ile;CMLM_Gapit;;T;0.034823;;0.823214;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;19;Gm19;35491994;35491994;Glycine_max_v4.0;;;;T;C;C;;;Protein;Amino_acid_content_Ile;CMLM_Gapit;;C;0.043704;;0.779608;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;19;Gm19;35491998;35491998;Glycine_max_v4.0;;;;A;G;A;;;Protein;Amino_acid_content_Ile;CMLM_Gapit;;A;0.040171;;-0.7932;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;19;Gm19;35492018;35492018;Glycine_max_v4.0;;;;C;T;C;;;Protein;Amino_acid_content_Ile;CMLM_Gapit;;C;0.040171;;-0.7932;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;19;Gm19;35492028;35492028;Glycine_max_v4.0;;;;T;C;T;;;Protein;Amino_acid_content_Ile;CMLM_Gapit;;T;0.040171;;-0.7932;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;19;Gm19;35492061;35492061;Glycine_max_v4.0;;;;T;C;T;;;Protein;Amino_acid_content_Ile;CMLM_Gapit;;T;0.029509;;-0.84056;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;19;Gm19;35492063;35492063;Glycine_max_v4.0;;;;T;G;T;;;Protein;Amino_acid_content_Ile;CMLM_Gapit;;T;0.024991;;-0.85036;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;20;Gm20;42531505;42531505;Glycine_max_v4.0;;;;C;G;G;;;Protein;Amino_acid_content_Ile;CMLM_Gapit;;G;0.002545;;-3.13814;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;5;Gm05;1131617;1131617;Glycine_max_v4.0;;;;G;A;A;;;Protein;Amino_acid_content_Leu;CMLM_Gapit;;A;0.000704;;-1.03904;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;11;Gm11;17324386;17324386;Glycine_max_v4.0;;;;T;C;C;;;Protein;Amino_acid_content_Leu;CMLM_Gapit;;C;0.001195;;1.631003;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;12;Gm12;1966701;1966701;Glycine_max_v4.0;;;;T;A;A;;;Protein;Amino_acid_content_Leu;CMLM_Gapit;;A;0.004941;;-0.70996;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;12;Gm12;2246393;2246393;Glycine_max_v4.0;;;;T;G;T;;;Protein;Amino_acid_content_Leu;CMLM_Gapit;;T;0.017589;;-0.67919;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;12;Gm12;37250318;37250318;Glycine_max_v4.0;;;;A;C;C;;;Protein;Amino_acid_content_Leu;CMLM_Gapit;;C;0.035037;;-0.6249;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;16;Gm16;27656811;27656811;Glycine_max_v4.0;;;;C;T;T;;;Protein;Amino_acid_content_Leu;CMLM_Gapit;;T;0.001144;;0.989902;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;16;Gm16;27675722;27675722;Glycine_max_v4.0;;;;A;T;T;;;Protein;Amino_acid_content_Leu;CMLM_Gapit;;T;0.003326;;0.923383;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;18;Gm18;54941806;54941806;Glycine_max_v4.0;;;;T;A;A;;;Protein;Amino_acid_content_Leu;CMLM_Gapit;;A;0.003605;;-0.79741;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;18;Gm18;61819070;61819070;Glycine_max_v4.0;;;;G;A;A;;;Protein;Amino_acid_content_Leu;CMLM_Gapit;;A;0.001002;;1.025183;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;18;Gm18;61846089;61846089;Glycine_max_v4.0;;;;T;A;A;;;Protein;Amino_acid_content_Leu;CMLM_Gapit;;A;0.00113;;1.007442;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;18;Gm18;61846097;61846097;Glycine_max_v4.0;;;;G;A;A;;;Protein;Amino_acid_content_Leu;CMLM_Gapit;;A;0.00113;;1.007442;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;18;Gm18;61846199;61846199;Glycine_max_v4.0;;;;G;A;A;;;Protein;Amino_acid_content_Leu;CMLM_Gapit;;A;0.00113;;1.007442;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;18;Gm18;61846240;61846240;Glycine_max_v4.0;;;;C;T;T;;;Protein;Amino_acid_content_Leu;CMLM_Gapit;;T;0.000602;;1.073108;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;18;Gm18;61846255;61846255;Glycine_max_v4.0;;;;C;T;T;;;Protein;Amino_acid_content_Leu;CMLM_Gapit;;T;0.000499;;1.085227;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;18;Gm18;61846357;61846357;Glycine_max_v4.0;;;;A;T;T;;;Protein;Amino_acid_content_Leu;CMLM_Gapit;;T;0.000602;;1.073108;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;18;Gm18;829983;829983;Glycine_max_v4.0;;;;G;A;A;;;Protein;Amino_acid_content_Leu;CMLM_Gapit;;A;0.030955;;-0.75169;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;18;Gm18;849773;849773;Glycine_max_v4.0;;;;T;C;C;;;Protein;Amino_acid_content_Leu;CMLM_Gapit;;C;0.043945;;-0.70722;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;20;Gm20;31240721;31240721;Glycine_max_v4.0;;;;T;A;A;;;Protein;Amino_acid_content_Leu;CMLM_Gapit;;A;0.000374;;2.800168;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;20;Gm20;35630363;35630363;Glycine_max_v4.0;;;;A;C;C;;;Protein;Amino_acid_content_Leu;CMLM_Gapit;;C;0.004016;;-1.77336;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;20;Gm20;42531505;42531505;Glycine_max_v4.0;;;;C;G;G;;;Protein;Amino_acid_content_Leu;CMLM_Gapit;;G;0.000864;;-2.30967;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;6;Gm06;14669414;14669414;Glycine_max_v4.0;;;;G;A;A;;;Protein;Amino_acid_content_Lys;CMLM_Gapit;;A;0.001198;;-1.39207;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;8;Gm08;3446621;3446621;Glycine_max_v4.0;;;;C;G;G;;;Protein;Amino_acid_content_Lys;CMLM_Gapit;;G;0.000492;;-0.70583;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;8;Gm08;43340095;43340095;Glycine_max_v4.0;;;;T;A;T;;;Protein;Amino_acid_content_Lys;CMLM_Gapit;;T;0.002101;;0.420338;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;11;Gm11;36252840;36252840;Glycine_max_v4.0;;;;A;G;G;;;Protein;Amino_acid_content_Lys;CMLM_Gapit;;G;0.000128;;-1.12588;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;13;Gm13;38830655;38830655;Glycine_max_v4.0;;;;G;A;G;;;Protein;Amino_acid_content_Lys;CMLM_Gapit;;G;0.006896;;-0.49084;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;13;Gm13;41203949;41203949;Glycine_max_v4.0;;;;C;T;C;;;Protein;Amino_acid_content_Lys;CMLM_Gapit;;C;0.000782;;-0.50417;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;15;Gm15;42452169;42452169;Glycine_max_v4.0;;;;T;A;A;;;Protein;Amino_acid_content_Lys;CMLM_Gapit;;A;0.006407;;0.529095;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;15;Gm15;42452285;42452285;Glycine_max_v4.0;;;;G;A;A;;;Protein;Amino_acid_content_Lys;CMLM_Gapit;;A;0.008376;;0.515204;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;16;Gm16;31565242;31565242;Glycine_max_v4.0;;;;T;C;C;;;Protein;Amino_acid_content_Lys;CMLM_Gapit;;C;0.000444;;0.595613;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;16;Gm16;31565425;31565425;Glycine_max_v4.0;;;;A;G;G;;;Protein;Amino_acid_content_Lys;CMLM_Gapit;;G;0.000471;;0.593401;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;16;Gm16;6737154;6737154;Glycine_max_v4.0;;;;T;C;T;;;Protein;Amino_acid_content_Lys;CMLM_Gapit;;T;0.008753;;-0.44068;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;18;Gm18;8944865;8944865;Glycine_max_v4.0;;;;G;C;C;;;Protein;Amino_acid_content_Lys;CMLM_Gapit;;C;0.00215;;-1.1475;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;19;Gm19;35492063;35492063;Glycine_max_v4.0;;;;T;G;T;;;Protein;Amino_acid_content_Lys;CMLM_Gapit;;T;0.015083;;-0.3041;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;20;Gm20;42569717;42569717;Glycine_max_v4.0;;;;C;T;T;;;Protein;Amino_acid_content_Lys;CMLM_Gapit;;T;0.001333;;-0.92402;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;4;Gm04;43207187;43207187;Glycine_max_v4.0;;;;C;T;T;;;Protein;Amino_acid_content_Phe;CMLM_Gapit;;T;0.000631;;-1.06311;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;4;Gm04;43207248;43207248;Glycine_max_v4.0;;;;G;A;A;;;Protein;Amino_acid_content_Phe;CMLM_Gapit;;A;0.000631;;-1.06311;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;7;Gm07;16345870;16345870;Glycine_max_v4.0;;;;G;A;A;;;Protein;Amino_acid_content_Phe;CMLM_Gapit;;A;0.000462;;0.825956;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;11;Gm11;36252840;36252840;Glycine_max_v4.0;;;;A;G;G;;;Protein;Amino_acid_content_Phe;CMLM_Gapit;;G;0.000783;;-1.01837;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;12;Gm12;2246393;2246393;Glycine_max_v4.0;;;;T;G;T;;;Protein;Amino_acid_content_Phe;CMLM_Gapit;;T;0.057757;;-0.27052;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;15;Gm15;42452169;42452169;Glycine_max_v4.0;;;;T;A;A;;;Protein;Amino_acid_content_Phe;CMLM_Gapit;;A;0.049248;;0.394576;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;15;Gm15;42452285;42452285;Glycine_max_v4.0;;;;G;A;A;;;Protein;Amino_acid_content_Phe;CMLM_Gapit;;A;0.061759;;0.377401;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;18;Gm18;14877256;14877256;Glycine_max_v4.0;;;;C;T;T;;;Protein;Amino_acid_content_Phe;CMLM_Gapit;;T;0.002377;;-0.53017;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;20;Gm20;42531505;42531505;Glycine_max_v4.0;;;;C;G;G;;;Protein;Amino_acid_content_Phe;CMLM_Gapit;;G;0.000154;;-1.33516;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;2;Gm02;48215047;48215047;Glycine_max_v4.0;;;;G;T;T;;;Protein;Amino_acid_content_Pro;CMLM_Gapit;;T;0.000885;;0.923761;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;3;Gm03;36530224;36530224;Glycine_max_v4.0;;;;T;C;C;;;Protein;Amino_acid_content_Pro;CMLM_Gapit;;C;0.001677;;-1.15725;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;3;Gm03;40600088;40600088;Glycine_max_v4.0;;;;A;G;A;;;Protein;Amino_acid_content_Pro;CMLM_Gapit;;A;0.034579;;0.714229;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;3;Gm03;40600203;40600203;Glycine_max_v4.0;;;;T;C;T;;;Protein;Amino_acid_content_Pro;CMLM_Gapit;;T;0.034579;;0.714229;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;4;Gm04;3722529;3722529;Glycine_max_v4.0;;;;G;A;G;;;Protein;Amino_acid_content_Pro;CMLM_Gapit;;G;0.003461;;-0.96442;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;11;Gm11;36391557;36391557;Glycine_max_v4.0;;;;;;;;;Protein;Amino_acid_content_Pro;CMLM_Gapit;;;0.007815;;0.773887;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;12;Gm12;37699937;37699937;Glycine_max_v4.0;;;;A;G;G;;;Protein;Amino_acid_content_Pro;CMLM_Gapit;;G;0.009958;;0.728932;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;12;Gm12;37700016;37700016;Glycine_max_v4.0;;;;G;C;C;;;Protein;Amino_acid_content_Pro;CMLM_Gapit;;C;0.009253;;0.73261;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;13;Gm13;40242572;40242572;Glycine_max_v4.0;;;;C;A;A;;;Protein;Amino_acid_content_Pro;CMLM_Gapit;;A;0.03396;;0.693765;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;13;Gm13;40242573;40242573;Glycine_max_v4.0;;;;C;T;T;;;Protein;Amino_acid_content_Pro;CMLM_Gapit;;T;0.03396;;0.693765;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;13;Gm13;40242709;40242709;Glycine_max_v4.0;;;;T;C;C;;;Protein;Amino_acid_content_Pro;CMLM_Gapit;;C;0.03396;;0.693765;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;13;Gm13;41203949;41203949;Glycine_max_v4.0;;;;C;T;C;;;Protein;Amino_acid_content_Pro;CMLM_Gapit;;C;0.005207;;-0.80385;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;16;Gm16;26668643;26668643;Glycine_max_v4.0;;;;T;C;C;;;Protein;Amino_acid_content_Pro;CMLM_Gapit;;C;0.023355;;-0.8057;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;16;Gm16;26668804;26668804;Glycine_max_v4.0;;;;A;G;G;;;Protein;Amino_acid_content_Pro;CMLM_Gapit;;G;0.024785;;0.690388;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;16;Gm16;26760058;26760058;Glycine_max_v4.0;;;;G;A;A;;;Protein;Amino_acid_content_Pro;CMLM_Gapit;;A;0.018775;;-0.82249;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;17;Gm17;14444779;14444779;Glycine_max_v4.0;;;;C;T;T;;;Protein;Amino_acid_content_Pro;CMLM_Gapit;;T;0.000406;;1.3481;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;17;Gm17;2459036;2459036;Glycine_max_v4.0;;;;C;A;A;;;Protein;Amino_acid_content_Pro;CMLM_Gapit;;A;0.001176;;0.898404;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;17;Gm17;2475262;2475262;Glycine_max_v4.0;;;;T;C;C;;;Protein;Amino_acid_content_Pro;CMLM_Gapit;;C;0.000289;;1.005066;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;17;Gm17;2674908;2674908;Glycine_max_v4.0;;;;T;C;C;;;Protein;Amino_acid_content_Pro;CMLM_Gapit;;C;0.021036;;1.044324;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;17;Gm17;37708047;37708047;Glycine_max_v4.0;;;;A;G;G;;;Protein;Amino_acid_content_Pro;CMLM_Gapit;;G;0.001513;;1.094538;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;17;Gm17;37708072;37708072;Glycine_max_v4.0;;;;A;G;G;;;Protein;Amino_acid_content_Pro;CMLM_Gapit;;G;0.001381;;1.099332;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;17;Gm17;37708077;37708077;Glycine_max_v4.0;;;;G;A;A;;;Protein;Amino_acid_content_Pro;CMLM_Gapit;;A;0.001381;;1.099332;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;17;Gm17;37708117;37708117;Glycine_max_v4.0;;;;T;C;C;;;Protein;Amino_acid_content_Pro;CMLM_Gapit;;C;0.000641;;1.16187;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;17;Gm17;37712338;37712338;Glycine_max_v4.0;;;;C;G;G;;;Protein;Amino_acid_content_Pro;CMLM_Gapit;;G;0.000665;;1.135646;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;2;Gm02;6721375;6721375;Glycine_max_v4.0;;;;G;A;A;;;Protein;Amino_acid_content_Ser;CMLM_Gapit;;A;0.209883;;-0.22871;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;5;Gm05;1956615;1956615;Glycine_max_v4.0;;;;T;C;C;;;Protein;Amino_acid_content_Ser;CMLM_Gapit;;C;0.000165;;0.803121;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;7;Gm07;4574178;4574178;Glycine_max_v4.0;;;;G;A;G;;;Protein;Amino_acid_content_Ser;CMLM_Gapit;;G;0.006531;;0.450222;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;10;Gm10;48103776;48103776;Glycine_max_v4.0;;;;T;A;A;;;Protein;Amino_acid_content_Ser;CMLM_Gapit;;A;0.22615;;-0.24507;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;10;Gm10;48367427;48367427;Glycine_max_v4.0;;;;A;G;G;;;Protein;Amino_acid_content_Ser;CMLM_Gapit;;G;0.012772;;0.392146;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;13;Gm13;17646967;17646967;Glycine_max_v4.0;;;;T;C;C;;;Protein;Amino_acid_content_Ser;CMLM_Gapit;;C;0.001416;;1.117888;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;13;Gm13;21744787;21744787;Glycine_max_v4.0;;;;C;T;T;;;Protein;Amino_acid_content_Ser;CMLM_Gapit;;T;0.000506;;1.172745;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;16;Gm16;35747794;35747794;Glycine_max_v4.0;;;;T;A;A;;;Protein;Amino_acid_content_Ser;CMLM_Gapit;;A;0.029221;;0.392992;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;18;Gm18;1449038;1449038;Glycine_max_v4.0;;;;T;C;C;;;Protein;Amino_acid_content_Ser;CMLM_Gapit;;C;0.000858;;-0.73278;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;19;Gm19;36853376;36853376;Glycine_max_v4.0;;;;C;T;T;;;Protein;Amino_acid_content_Ser;CMLM_Gapit;;T;1.93E-06;;1.095789;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;19;Gm19;36856526;36856526;Glycine_max_v4.0;;;;C;T;T;;;Protein;Amino_acid_content_Ser;CMLM_Gapit;;T;9.30E-07;;1.073969;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;2;Gm02;47034495;47034495;Glycine_max_v4.0;;;;C;T;C;;;Protein;Amino_acid_content_Thr;CMLM_Gapit;;C;0.007002;;0.394266;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;3;Gm03;36272238;36272238;Glycine_max_v4.0;;;;T;C;C;;;Protein;Amino_acid_content_Thr;CMLM_Gapit;;C;0.001561;;-0.58677;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;3;Gm03;36417795;36417795;Glycine_max_v4.0;;;;A;G;G;;;Protein;Amino_acid_content_Thr;CMLM_Gapit;;G;0.00404;;-0.51618;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;3;Gm03;36465287;36465287;Glycine_max_v4.0;;;;G;A;A;;;Protein;Amino_acid_content_Thr;CMLM_Gapit;;A;0.000976;;-0.59293;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;4;Gm04;29795804;29795804;Glycine_max_v4.0;;;;T;G;G;;;Protein;Amino_acid_content_Thr;CMLM_Gapit;;G;0.02312;;0.376338;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;4;Gm04;43207187;43207187;Glycine_max_v4.0;;;;C;T;T;;;Protein;Amino_acid_content_Thr;CMLM_Gapit;;T;0.001933;;-1.08501;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;4;Gm04;43207248;43207248;Glycine_max_v4.0;;;;G;A;A;;;Protein;Amino_acid_content_Thr;CMLM_Gapit;;A;0.001933;;-1.08501;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;5;Gm05;1131617;1131617;Glycine_max_v4.0;;;;G;A;A;;;Protein;Amino_acid_content_Thr;CMLM_Gapit;;A;0.004142;;-0.50685;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;12;Gm12;2246393;2246393;Glycine_max_v4.0;;;;T;G;T;;;Protein;Amino_acid_content_Thr;CMLM_Gapit;;T;0.005628;;-0.44839;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;12;Gm12;2246402;2246402;Glycine_max_v4.0;;;;C;G;C;;;Protein;Amino_acid_content_Thr;CMLM_Gapit;;C;0.029595;;-0.36656;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;12;Gm12;2246405;2246405;Glycine_max_v4.0;;;;G;A;G;;;Protein;Amino_acid_content_Thr;CMLM_Gapit;;G;0.029595;;-0.36656;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;12;Gm12;2246408;2246408;Glycine_max_v4.0;;;;C;T;C;;;Protein;Amino_acid_content_Thr;CMLM_Gapit;;C;0.029595;;-0.36656;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;12;Gm12;2246409;2246409;Glycine_max_v4.0;;;;T;C;T;;;Protein;Amino_acid_content_Thr;CMLM_Gapit;;T;0.029595;;-0.36656;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;16;Gm16;6737154;6737154;Glycine_max_v4.0;;;;T;C;T;;;Protein;Amino_acid_content_Thr;CMLM_Gapit;;T;0.006506;;-0.52906;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;16;Gm16;6737218;6737218;Glycine_max_v4.0;;;;A;G;A;;;Protein;Amino_acid_content_Thr;CMLM_Gapit;;A;0.002553;;-0.57075;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;16;Gm16;6737289;6737289;Glycine_max_v4.0;;;;A;G;A;;;Protein;Amino_acid_content_Thr;CMLM_Gapit;;A;0.004401;;-0.54618;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;16;Gm16;6737312;6737312;Glycine_max_v4.0;;;;A;G;A;;;Protein;Amino_acid_content_Thr;CMLM_Gapit;;A;0.005821;;-0.53632;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;18;Gm18;12797087;12797087;Glycine_max_v4.0;;;;C;T;T;;;Protein;Amino_acid_content_Thr;CMLM_Gapit;;T;0.001051;;-1.11307;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;18;Gm18;2026494;2026494;Glycine_max_v4.0;;;;T;G;G;;;Protein;Amino_acid_content_Thr;CMLM_Gapit;;G;0.000353;;0.616878;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;18;Gm18;8944865;8944865;Glycine_max_v4.0;;;;G;C;C;;;Protein;Amino_acid_content_Thr;CMLM_Gapit;;C;4.90E-05;;-1.77235;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;20;Gm20;42531505;42531505;Glycine_max_v4.0;;;;C;G;G;;;Protein;Amino_acid_content_Thr;CMLM_Gapit;;G;0.000362;;-1.41502;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;5;Gm05;1131617;1131617;Glycine_max_v4.0;;;;G;A;A;;;Protein;Amino_acid_content_Tyr;CMLM_Gapit;;A;0.000599;;-0.31708;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;5;Gm05;36368612;36368612;Glycine_max_v4.0;;;;A;G;G;;;Protein;Amino_acid_content_Tyr;CMLM_Gapit;;G;0.002933;;-0.43571;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;6;Gm06;1655912;1655912;Glycine_max_v4.0;;;;T;G;G;;;Protein;Amino_acid_content_Tyr;CMLM_Gapit;;G;0.019899;;0.235877;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;11;Gm11;36252840;36252840;Glycine_max_v4.0;;;;A;G;G;;;Protein;Amino_acid_content_Tyr;CMLM_Gapit;;G;0.001884;;-0.55039;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;16;Gm16;36927834;36927834;Glycine_max_v4.0;;;;T;C;T;;;Protein;Amino_acid_content_Tyr;CMLM_Gapit;;T;0.003168;;-0.35513;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;16;Gm16;36927871;36927871;Glycine_max_v4.0;;;;A;T;A;;;Protein;Amino_acid_content_Tyr;CMLM_Gapit;;A;0.003168;;-0.35513;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;17;Gm17;23967094;23967094;Glycine_max_v4.0;;;;T;G;T;;;Protein;Amino_acid_content_Tyr;CMLM_Gapit;;T;0.000132;;-0.50731;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;18;Gm18;54941806;54941806;Glycine_max_v4.0;;;;T;A;A;;;Protein;Amino_acid_content_Tyr;CMLM_Gapit;;A;0.007643;;-0.21256;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;19;Gm19;38354186;38354186;Glycine_max_v4.0;;;;C;T;T;;;Protein;Amino_acid_content_Tyr;CMLM_Gapit;;T;0.026026;;-0.24074;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;20;Gm20;31240721;31240721;Glycine_max_v4.0;;;;T;A;A;;;Protein;Amino_acid_content_Tyr;CMLM_Gapit;;A;0.000153;;0.88758;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;20;Gm20;31240801;31240801;Glycine_max_v4.0;;;;T;C;C;;;Protein;Amino_acid_content_Tyr;CMLM_Gapit;;C;0.000237;;0.836451;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;20;Gm20;42531505;42531505;Glycine_max_v4.0;;;;C;G;G;;;Protein;Amino_acid_content_Tyr;CMLM_Gapit;;G;0.001678;;-0.64491;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;20;Gm20;42569717;42569717;Glycine_max_v4.0;;;;C;T;T;;;Protein;Amino_acid_content_Tyr;CMLM_Gapit;;T;0.00421;;-0.49469;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;2;Gm02;15368490;15368490;Glycine_max_v4.0;;;;C;A;A;;;Protein;Amino_acid_content_Val;CMLM_Gapit;;A;0.019192;;-0.84202;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;2;Gm02;47034495;47034495;Glycine_max_v4.0;;;;C;T;C;;;Protein;Amino_acid_content_Val;CMLM_Gapit;;C;0.000369;;0.870538;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;2;Gm02;49856130;49856130;Glycine_max_v4.0;;;;G;A;G;;;Protein;Amino_acid_content_Val;CMLM_Gapit;;G;0.001055;;-0.76364;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;5;Gm05;21977894;21977894;Glycine_max_v4.0;;;;C;A;A;;;Protein;Amino_acid_content_Val;CMLM_Gapit;;A;0.047696;;-0.45354;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;10;Gm10;35214322;35214322;Glycine_max_v4.0;;;;C;T;T;;;Protein;Amino_acid_content_Val;CMLM_Gapit;;T;0.022522;;0.851139;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;12;Gm12;1966701;1966701;Glycine_max_v4.0;;;;T;A;A;;;Protein;Amino_acid_content_Val;CMLM_Gapit;;A;0.00024;;-0.84797;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;12;Gm12;2246393;2246393;Glycine_max_v4.0;;;;T;G;T;;;Protein;Amino_acid_content_Val;CMLM_Gapit;;T;0.001359;;-0.8198;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;15;Gm15;42452169;42452169;Glycine_max_v4.0;;;;T;A;A;;;Protein;Amino_acid_content_Val;CMLM_Gapit;;A;0.169845;;0.467284;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;15;Gm15;42452285;42452285;Glycine_max_v4.0;;;;G;A;A;;;Protein;Amino_acid_content_Val;CMLM_Gapit;;A;0.247485;;0.3943;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;16;Gm16;19309923;19309923;Glycine_max_v4.0;;;;C;T;T;;;Protein;Amino_acid_content_Val;CMLM_Gapit;;T;0.006797;;-1.58756;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;16;Gm16;19310296;19310296;Glycine_max_v4.0;;;;G;A;A;;;Protein;Amino_acid_content_Val;CMLM_Gapit;;A;0.006797;;-1.58756;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;16;Gm16;30033799;30033799;Glycine_max_v4.0;;;;G;A;G;;;Protein;Amino_acid_content_Val;CMLM_Gapit;;G;0.046772;;-0.49643;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;16;Gm16;31565242;31565242;Glycine_max_v4.0;;;;T;C;C;;;Protein;Amino_acid_content_Val;CMLM_Gapit;;C;0.000107;;0.898737;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;16;Gm16;31565425;31565425;Glycine_max_v4.0;;;;A;G;G;;;Protein;Amino_acid_content_Val;CMLM_Gapit;;G;0.000123;;0.894294;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;16;Gm16;780258;780258;Glycine_max_v4.0;;;;C;A;C;;;Protein;Amino_acid_content_Val;CMLM_Gapit;;C;0.001383;;0.766946;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;19;Gm19;14283927;14283927;Glycine_max_v4.0;;;;C;T;T;;;Protein;Amino_acid_content_Val;CMLM_Gapit;;T;0.001071;;-0.8992;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;19;Gm19;35491961;35491961;Glycine_max_v4.0;;;;C;T;T;;;Protein;Amino_acid_content_Val;CMLM_Gapit;;T;0.0128;;0.619761;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;19;Gm19;35491974;35491974;Glycine_max_v4.0;;;;G;T;T;;;Protein;Amino_acid_content_Val;CMLM_Gapit;;T;0.007972;;0.656639;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;19;Gm19;35491994;35491994;Glycine_max_v4.0;;;;T;C;C;;;Protein;Amino_acid_content_Val;CMLM_Gapit;;C;0.006827;;0.663513;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;19;Gm19;35491998;35491998;Glycine_max_v4.0;;;;A;G;A;;;Protein;Amino_acid_content_Val;CMLM_Gapit;;A;0.008026;;-0.64943;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;19;Gm19;35492018;35492018;Glycine_max_v4.0;;;;C;T;C;;;Protein;Amino_acid_content_Val;CMLM_Gapit;;C;0.008026;;-0.64943;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;19;Gm19;35492028;35492028;Glycine_max_v4.0;;;;T;C;T;;;Protein;Amino_acid_content_Val;CMLM_Gapit;;T;0.008026;;-0.64943;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;19;Gm19;35492061;35492061;Glycine_max_v4.0;;;;T;C;T;;;Protein;Amino_acid_content_Val;CMLM_Gapit;;T;0.00481;;-0.69079;;;2019;10.3389/fpls.2019.01445;;;;;
-Соя;Glycine max L.;Soybean;Wm82.a1.v1;SNP;19;Gm19;35492063;35492063;Glycine_max_v4.0;;;;T;G;T;;;Protein;Amino_acid_content_Val;CMLM_Gapit;;T;0.005614;;-0.66149;;;2019;10.3389/fpls.2019.01445;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+russian_name	species	english_name	genome_version_original	marker_type	chr	chr_original	pos_original	pos_original_end	genome_version	chr_id	pos_start	pos_end	ref	alt	minor_allele	country	region	feature_category	feature	analysis_tool	value	a1	p_value	pos_in_gene	impact	geneid	gene_description	year	source
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	6	Gm06	399885	399885	Glycine_max_v4.0				C	T	T			Protein	Amino_acid_content_Ala	CMLM_Gapit		T	0.057955		-0.28382			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	7	Gm07	39077446	39077446	Glycine_max_v4.0				A	G	G			Protein	Amino_acid_content_Ala	CMLM_Gapit		G	0.000504		-0.48338			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	8	Gm08	14156183	14156183	Glycine_max_v4.0				T	A	T			Protein	Amino_acid_content_Ala	CMLM_Gapit		T	0.025533		0.623892			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	9	Gm09	43473530	43473530	Glycine_max_v4.0				A	C	C			Protein	Amino_acid_content_Ala	CMLM_Gapit		C	0.00416		0.414154			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	9	Gm09	43488824	43488824	Glycine_max_v4.0				A	T	T			Protein	Amino_acid_content_Ala	CMLM_Gapit		T	0.002494		0.436963			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	10	Gm10	12029489	12029489	Glycine_max_v4.0				T	C	C			Protein	Amino_acid_content_Ala	CMLM_Gapit		C	0.001467		0.619607			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	10	Gm10	46037954	46037954	Glycine_max_v4.0				C	T	T			Protein	Amino_acid_content_Ala	CMLM_Gapit		T	0.092424		0.361292			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	13	Gm13	21758530	21758530	Glycine_max_v4.0				A	T	T			Protein	Amino_acid_content_Ala	CMLM_Gapit		T	0.000886		0.910935			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	19	Gm19	34599708	34599708	Glycine_max_v4.0				G	A	A			Protein	Amino_acid_content_Ala	CMLM_Gapit		A	0.000404		0.588507			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	19	Gm19	36853376	36853376	Glycine_max_v4.0				C	T	T			Protein	Amino_acid_content_Ala	CMLM_Gapit		T	0.000287		0.70181			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	19	Gm19	36856526	36856526	Glycine_max_v4.0				C	T	T			Protein	Amino_acid_content_Ala	CMLM_Gapit		T	0.000153		0.688893			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	2	Gm02	50224425	50224425	Glycine_max_v4.0				T	C	C			Protein	Amino_acid_content_Arg	CMLM_Gapit		C	0.029835		-0.71869			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	2	Gm02	50269310	50269310	Glycine_max_v4.0				C	A	A			Protein	Amino_acid_content_Arg	CMLM_Gapit		A	0.030224		-0.70106			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	3	Gm03	6537448	6537448	Glycine_max_v4.0				C	T	T			Protein	Amino_acid_content_Arg	CMLM_Gapit		T	0.001894		-1.5651			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	6	Gm06	1655912	1655912	Glycine_max_v4.0				T	G	G			Protein	Amino_acid_content_Arg	CMLM_Gapit		G	0.00896		0.875359			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	7	Gm07	3811476	3811476	Glycine_max_v4.0				A	G	G			Protein	Amino_acid_content_Arg	CMLM_Gapit		G	0.02231		0.800312			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	7	Gm07	5923593	5923593	Glycine_max_v4.0									Protein	Amino_acid_content_Arg	CMLM_Gapit			0.071342		0.489041			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	10	Gm10	47770916	47770916	Glycine_max_v4.0				G	T	T			Protein	Amino_acid_content_Arg	CMLM_Gapit		T	0.023037		0.677589			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	10	Gm10	4877563	4877563	Glycine_max_v4.0				T	G	G			Protein	Amino_acid_content_Arg	CMLM_Gapit		G	0.066175		0.619929			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	10	Gm10	4877661	4877661	Glycine_max_v4.0				C	T	T			Protein	Amino_acid_content_Arg	CMLM_Gapit		T	0.066175		0.619929			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	10	Gm10	6088950	6088950	Glycine_max_v4.0				A	T	T			Protein	Amino_acid_content_Arg	CMLM_Gapit		T	0.000321		1.392324			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	10	Gm10	6127825	6127825	Glycine_max_v4.0				C	T	T			Protein	Amino_acid_content_Arg	CMLM_Gapit		T	0.001528		1.224071			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	10	Gm10	6158335	6158335	Glycine_max_v4.0				A	G	G			Protein	Amino_acid_content_Arg	CMLM_Gapit		G	0.0008		1.312934			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	12	Gm12	4525326	4525326	Glycine_max_v4.0				A	T	T			Protein	Amino_acid_content_Arg	CMLM_Gapit		T	0.010165		-0.98463			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	12	Gm12	4525341	4525341	Glycine_max_v4.0				C	G	G			Protein	Amino_acid_content_Arg	CMLM_Gapit		G	0.007485		-1.07392			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	13	Gm13	22508206	22508206	Glycine_max_v4.0				A	T	T			Protein	Amino_acid_content_Arg	CMLM_Gapit		T	0.001391		1.870219			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	13	Gm13	7762318	7762318	Glycine_max_v4.0				A	T	A			Protein	Amino_acid_content_Arg	CMLM_Gapit		A	0.015598		0.767584			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	14	Gm14	670550	670550	Glycine_max_v4.0				A	T	T			Protein	Amino_acid_content_Arg	CMLM_Gapit		T	0.00141		1.274518			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	14	Gm14	670770	670770	Glycine_max_v4.0				A	G	G			Protein	Amino_acid_content_Arg	CMLM_Gapit		G	0.000594		1.375554			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	16	Gm16	32344691	32344691	Glycine_max_v4.0				A	G	G			Protein	Amino_acid_content_Arg	CMLM_Gapit		G	0.000112		1.211759			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	16	Gm16	32636611	32636611	Glycine_max_v4.0				A	G	A			Protein	Amino_acid_content_Arg	CMLM_Gapit		A	0.000285		-1.02604			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	16	Gm16	32891444	32891444	Glycine_max_v4.0				T	C	C			Protein	Amino_acid_content_Arg	CMLM_Gapit		C	0.000178		1.31797			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	16	Gm16	33487136	33487136	Glycine_max_v4.0				G	A	A			Protein	Amino_acid_content_Arg	CMLM_Gapit		A	0.00234		1.589216			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	16	Gm16	33595082	33595082	Glycine_max_v4.0				T	C	C			Protein	Amino_acid_content_Arg	CMLM_Gapit		C	0.002954		1.268857			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	16	Gm16	33761779	33761779	Glycine_max_v4.0				C	T	T			Protein	Amino_acid_content_Arg	CMLM_Gapit		T	0.000976		1.609801			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	16	Gm16	33853366	33853366	Glycine_max_v4.0				C	T	T			Protein	Amino_acid_content_Arg	CMLM_Gapit		T	0.00417		1.256879			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	17	Gm17	37712338	37712338	Glycine_max_v4.0				C	G	G			Protein	Amino_acid_content_Arg	CMLM_Gapit		G	0.000974		1.133215			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	18	Gm18	55570016	55570016	Glycine_max_v4.0				A	G	G			Protein	Amino_acid_content_Arg	CMLM_Gapit		G	0.000959		1.387074			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	18	Gm18	57994827	57994827	Glycine_max_v4.0				C	T	T			Protein	Amino_acid_content_Arg	CMLM_Gapit		T	0.007621		-0.78784			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	18	Gm18	57994865	57994865	Glycine_max_v4.0				C	A	A			Protein	Amino_acid_content_Arg	CMLM_Gapit		A	0.007621		-0.78784			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	2	Gm02	6721375	6721375	Glycine_max_v4.0				G	A	A			Protein	Amino_acid_content_Asp	CMLM_Gapit		A	0.128024		-0.72269			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	7	Gm07	36388230	36388230	Glycine_max_v4.0				T	A	A			Protein	Amino_acid_content_Asp	CMLM_Gapit		A	0.038325		-1.48315			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	8	Gm08	45648867	45648867	Glycine_max_v4.0				C	G	C			Protein	Amino_acid_content_Asp	CMLM_Gapit		C	8.15E-06		-1.88314			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	9	Gm09	43488824	43488824	Glycine_max_v4.0				A	T	T			Protein	Amino_acid_content_Asp	CMLM_Gapit		T	0.002471		1.265549			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	10	Gm10	48103776	48103776	Glycine_max_v4.0				T	A	A			Protein	Amino_acid_content_Asp	CMLM_Gapit		A	0.373248		-0.46689			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	13	Gm13	17646967	17646967	Glycine_max_v4.0				T	C	C			Protein	Amino_acid_content_Asp	CMLM_Gapit		C	0.000528		3.123782			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	13	Gm13	21744787	21744787	Glycine_max_v4.0				C	T	T			Protein	Amino_acid_content_Asp	CMLM_Gapit		T	0.001369		2.798664			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	13	Gm13	21758530	21758530	Glycine_max_v4.0				A	T	T			Protein	Amino_acid_content_Asp	CMLM_Gapit		T	0.000139		3.172402			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	16	Gm16	33670373	33670373	Glycine_max_v4.0				G	C	C			Protein	Amino_acid_content_Asp	CMLM_Gapit		C	0.000461		2.10161			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	5	Gm05	1956615	1956615	Glycine_max_v4.0				T	C	C			Protein	Amino_acid_content_Glu	CMLM_Gapit		C	0.000996		2.659955173			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	6	Gm06	20941559	20941559	Glycine_max_v4.0				T	C	C			Protein	Amino_acid_content_Glu	CMLM_Gapit		C	0.007699		2.061147777			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	7	Gm07	36390103	36390103	Glycine_max_v4.0				G	A	A			Protein	Amino_acid_content_Glu	CMLM_Gapit		A	0.083077		-1.060110176			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	7	Gm07	36524487	36524487	Glycine_max_v4.0				G	T	T			Protein	Amino_acid_content_Glu	CMLM_Gapit		T	0.002878		-2.591253343			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	7	Gm07	36542987	36542987	Glycine_max_v4.0				G	A	A			Protein	Amino_acid_content_Glu	CMLM_Gapit		A	0.000461		-3.046286683			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	7	Gm07	36543902	36543902	Glycine_max_v4.0				C	A	A			Protein	Amino_acid_content_Glu	CMLM_Gapit		A	0.000853		-2.873031071			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	7	Gm07	36633143	36633143	Glycine_max_v4.0				G	A	A			Protein	Amino_acid_content_Glu	CMLM_Gapit		A	0.003492		-1.773444644			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	7	Gm07	36633260	36633260	Glycine_max_v4.0				G	A	A			Protein	Amino_acid_content_Glu	CMLM_Gapit		A	0.003492		-1.773444644			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	8	Gm08	14156183	14156183	Glycine_max_v4.0				T	A	T			Protein	Amino_acid_content_Glu	CMLM_Gapit		T	0.033442		2.585934786			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	8	Gm08	1969577	1969577	Glycine_max_v4.0				T	C	C			Protein	Amino_acid_content_Glu	CMLM_Gapit		C	0.000526		-2.117203707			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	8	Gm08	8091680	8091680	Glycine_max_v4.0				C	A	A			Protein	Amino_acid_content_Glu	CMLM_Gapit		A	0.000525		-3.007533821			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	10	Gm10	46037693	46037693	Glycine_max_v4.0				A	G	G			Protein	Amino_acid_content_Glu	CMLM_Gapit		G	0.021841		1.976212948			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	10	Gm10	46037954	46037954	Glycine_max_v4.0				C	T	T			Protein	Amino_acid_content_Glu	CMLM_Gapit		T	0.026286		2.080017748			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	10	Gm10	46045322	46045322	Glycine_max_v4.0				A	T	T			Protein	Amino_acid_content_Glu	CMLM_Gapit		T	0.043724		1.839404588			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	10	Gm10	48103776	48103776	Glycine_max_v4.0				T	A	A			Protein	Amino_acid_content_Glu	CMLM_Gapit		A	0.022308		-1.861346026			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	10	Gm10	50892012	50892012	Glycine_max_v4.0				T	C	C			Protein	Amino_acid_content_Glu	CMLM_Gapit		C	0.002651		2.432540958			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	10	Gm10	50945017	50945017	Glycine_max_v4.0				C	G	G			Protein	Amino_acid_content_Glu	CMLM_Gapit		G	0.00175		2.41312883			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	10	Gm10	50945124	50945124	Glycine_max_v4.0				C	T	T			Protein	Amino_acid_content_Glu	CMLM_Gapit		T	0.004726		2.210425154			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	13	Gm13	21744787	21744787	Glycine_max_v4.0				C	T	T			Protein	Amino_acid_content_Glu	CMLM_Gapit		T	0.014051		3.033142977			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	14	Gm14	42728555	42728555	Glycine_max_v4.0				C	A	A			Protein	Amino_acid_content_Glu	CMLM_Gapit		A	0.00463		2.652100914			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	14	Gm14	42900467	42900467	Glycine_max_v4.0									Protein	Amino_acid_content_Glu	CMLM_Gapit			0.00463		2.652100914			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	14	Gm14	43163207	43163207	Glycine_max_v4.0				C	T	T			Protein	Amino_acid_content_Glu	CMLM_Gapit		T	0.002116		2.959559113			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	14	Gm14	43163233	43163233	Glycine_max_v4.0				C	T	T			Protein	Amino_acid_content_Glu	CMLM_Gapit		T	0.002116		2.959559113			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	14	Gm14	43163234	43163234	Glycine_max_v4.0				A	G	G			Protein	Amino_acid_content_Glu	CMLM_Gapit		G	0.000678		3.163378122			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	14	Gm14	43163255	43163255	Glycine_max_v4.0				T	C	C			Protein	Amino_acid_content_Glu	CMLM_Gapit		C	0.000678		3.163378122			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	14	Gm14	43163263	43163263	Glycine_max_v4.0				G	A	A			Protein	Amino_acid_content_Glu	CMLM_Gapit		A	0.002116		2.959559113			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	14	Gm14	43163268	43163268	Glycine_max_v4.0				A	G	G			Protein	Amino_acid_content_Glu	CMLM_Gapit		G	0.000678		3.163378122			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	14	Gm14	43163302	43163302	Glycine_max_v4.0				C	A	A			Protein	Amino_acid_content_Glu	CMLM_Gapit		A	0.002116		2.959559113			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	14	Gm14	43163309	43163309	Glycine_max_v4.0				C	G	G			Protein	Amino_acid_content_Glu	CMLM_Gapit		G	0.002116		2.959559113			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	14	Gm14	43163317	43163317	Glycine_max_v4.0				C	G	G			Protein	Amino_acid_content_Glu	CMLM_Gapit		G	0.000678		3.163378122			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	18	Gm18	1449038	1449038	Glycine_max_v4.0				T	C	C			Protein	Amino_acid_content_Glu	CMLM_Gapit		C	6.22E-05		-3.397233429			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	18	Gm18	1564092	1564092	Glycine_max_v4.0				A	T	T			Protein	Amino_acid_content_Glu	CMLM_Gapit		T	0.000101		-4.020945797			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	19	Gm19	36856526	36856526	Glycine_max_v4.0				C	T	T			Protein	Amino_acid_content_Glu	CMLM_Gapit		T	3.68E-05		3.279696679			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	19	Gm19	41048945	41048945	Glycine_max_v4.0				A	G	G			Protein	Amino_acid_content_Glu	CMLM_Gapit		G	0.001216		-3.15207129			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	1	Gm01	53597652	53597652	Glycine_max_v4.0				G	A	A			Protein	Amino_acid_content_Gly	CMLM_Gapit		A	0.03092		0.434841			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	2	Gm02	6671113	6671113	Glycine_max_v4.0				A	G	G			Protein	Amino_acid_content_Gly	CMLM_Gapit		G	0.101324		-0.60924			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	2	Gm02	6721375	6721375	Glycine_max_v4.0				G	A	A			Protein	Amino_acid_content_Gly	CMLM_Gapit		A	0.404328		-0.194			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	4	Gm04	29795804	29795804	Glycine_max_v4.0				T	G	G			Protein	Amino_acid_content_Gly	CMLM_Gapit		G	0.024866		-0.4724			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	4	Gm04	43205897	43205897	Glycine_max_v4.0				C	T	T			Protein	Amino_acid_content_Gly	CMLM_Gapit		T	0.002236		1.755098			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	4	Gm04	43205900	43205900	Glycine_max_v4.0				G	A	A			Protein	Amino_acid_content_Gly	CMLM_Gapit		A	0.002236		1.755098			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	4	Gm04	43207187	43207187	Glycine_max_v4.0				C	T	T			Protein	Amino_acid_content_Gly	CMLM_Gapit		T	0.025031		1.101549			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	4	Gm04	43207248	43207248	Glycine_max_v4.0				G	A	A			Protein	Amino_acid_content_Gly	CMLM_Gapit		A	0.025031		1.101549			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	4	Gm04	43247307	43247307	Glycine_max_v4.0				C	A	A			Protein	Amino_acid_content_Gly	CMLM_Gapit		A	0.002236		1.755098			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	4	Gm04	43247365	43247365	Glycine_max_v4.0				G	A	A			Protein	Amino_acid_content_Gly	CMLM_Gapit		A	0.002236		1.755098			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	5	Gm05	1364762	1364762	Glycine_max_v4.0				A	T	T			Protein	Amino_acid_content_Gly	CMLM_Gapit		T	0.001344		0.734461			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	6	Gm06	289575	289575	Glycine_max_v4.0				T	C	C			Protein	Amino_acid_content_Gly	CMLM_Gapit		C	0.048647		-0.40632			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	6	Gm06	399885	399885	Glycine_max_v4.0				C	T	T			Protein	Amino_acid_content_Gly	CMLM_Gapit		T	0.040104		-0.41777			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	6	Gm06	46691924	46691924	Glycine_max_v4.0				T	G	G			Protein	Amino_acid_content_Gly	CMLM_Gapit		G	0.099887		-0.32957			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	6	Gm06	48405502	48405502	Glycine_max_v4.0				G	A	A			Protein	Amino_acid_content_Gly	CMLM_Gapit		A	0.002447		0.955432			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	6	Gm06	49021688	49021688	Glycine_max_v4.0				G	A	A			Protein	Amino_acid_content_Gly	CMLM_Gapit		A	1.21E-06		2.77146			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	6	Gm06	582930	582930	Glycine_max_v4.0				C	T	T			Protein	Amino_acid_content_Gly	CMLM_Gapit		T	0.074927		-0.36009			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	7	Gm07	3374472	3374472	Glycine_max_v4.0				T	C	T			Protein	Amino_acid_content_Gly	CMLM_Gapit		T	0.008218		0.590257			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	7	Gm07	3374492	3374492	Glycine_max_v4.0				C	T	C			Protein	Amino_acid_content_Gly	CMLM_Gapit		C	0.026263		0.484051			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	8	Gm08	8480396	8480396	Glycine_max_v4.0				A	C	C			Protein	Amino_acid_content_Gly	CMLM_Gapit		C	0.000284		1.171206			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	8	Gm08	8538031	8538031	Glycine_max_v4.0				T	C	C			Protein	Amino_acid_content_Gly	CMLM_Gapit		C	0.000396		1.172309			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	14	Gm14	28719225	28719225	Glycine_max_v4.0				A	G	G			Protein	Amino_acid_content_Gly	CMLM_Gapit		G	0.004256		1.621991			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	15	Gm15	6364620	6364620	Glycine_max_v4.0				C	T	T			Protein	Amino_acid_content_Gly	CMLM_Gapit		T	0.042469		0.664218			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	15	Gm15	6364624	6364624	Glycine_max_v4.0				A	C	C			Protein	Amino_acid_content_Gly	CMLM_Gapit		C	0.021932		0.768057			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	15	Gm15	6364658	6364658	Glycine_max_v4.0				A	G	G			Protein	Amino_acid_content_Gly	CMLM_Gapit		G	0.021932		0.768057			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	15	Gm15	6364660	6364660	Glycine_max_v4.0				A	T	T			Protein	Amino_acid_content_Gly	CMLM_Gapit		T	0.022388		0.747436			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	15	Gm15	6364671	6364671	Glycine_max_v4.0				C	T	T			Protein	Amino_acid_content_Gly	CMLM_Gapit		T	0.021932		0.768057			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	18	Gm18	58356668	58356668	Glycine_max_v4.0				A	G	G			Protein	Amino_acid_content_Gly	CMLM_Gapit		G	0.016303		0.768171			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	20	Gm20	42531505	42531505	Glycine_max_v4.0				C	G	G			Protein	Amino_acid_content_Gly	CMLM_Gapit		G	0.031504		1.190845			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	1	Gm01	571041	571041	Glycine_max_v4.0				T	G	G			Protein	Amino_acid_content_His	CMLM_Gapit		G	0.014758		0.279658			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	1	Gm01	571048	571048	Glycine_max_v4.0				A	G	G			Protein	Amino_acid_content_His	CMLM_Gapit		G	0.014758		0.279658			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	2	Gm02	45763574	45763574	Glycine_max_v4.0				T	A	A			Protein	Amino_acid_content_His	CMLM_Gapit		A	0.003516		0.165866			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	3	Gm03	6537448	6537448	Glycine_max_v4.0				C	T	T			Protein	Amino_acid_content_His	CMLM_Gapit		T	0.005261		-0.27634			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	6	Gm06	48160139	48160139	Glycine_max_v4.0				A	G	G			Protein	Amino_acid_content_His	CMLM_Gapit		G	0.029581		0.181504			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	10	Gm10	48103776	48103776	Glycine_max_v4.0				T	A	A			Protein	Amino_acid_content_His	CMLM_Gapit		A	0.080759		-0.12903			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	13	Gm13	41203949	41203949	Glycine_max_v4.0				C	T	C			Protein	Amino_acid_content_His	CMLM_Gapit		C	0.000373		-0.20748			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	15	Gm15	46888773	46888773	Glycine_max_v4.0				C	T	C			Protein	Amino_acid_content_His	CMLM_Gapit		C	0.032387		-0.12431			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	16	Gm16	33487136	33487136	Glycine_max_v4.0				G	A	A			Protein	Amino_acid_content_His	CMLM_Gapit		A	0.003193		0.298916			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	16	Gm16	33595082	33595082	Glycine_max_v4.0				T	C	C			Protein	Amino_acid_content_His	CMLM_Gapit		C	0.002534		0.253037			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	16	Gm16	33761779	33761779	Glycine_max_v4.0				C	T	T			Protein	Amino_acid_content_His	CMLM_Gapit		T	0.001271		0.306635			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	16	Gm16	33853366	33853366	Glycine_max_v4.0				C	T	T			Protein	Amino_acid_content_His	CMLM_Gapit		T	0.006722		0.232792			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	16	Gm16	35244130	35244130	Glycine_max_v4.0				T	C	C			Protein	Amino_acid_content_His	CMLM_Gapit		C	0.008012		0.135816			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	16	Gm16	6737154	6737154	Glycine_max_v4.0				T	C	T			Protein	Amino_acid_content_His	CMLM_Gapit		T	0.027957		-0.14242			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	17	Gm17	37708047	37708047	Glycine_max_v4.0				A	G	G			Protein	Amino_acid_content_His	CMLM_Gapit		G	0.000731		0.235185			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	17	Gm17	37708072	37708072	Glycine_max_v4.0				A	G	G			Protein	Amino_acid_content_His	CMLM_Gapit		G	0.000981		0.228423			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	17	Gm17	37708077	37708077	Glycine_max_v4.0				G	A	A			Protein	Amino_acid_content_His	CMLM_Gapit		A	0.000981		0.228423			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	17	Gm17	37708117	37708117	Glycine_max_v4.0				T	C	C			Protein	Amino_acid_content_His	CMLM_Gapit		C	0.000463		0.240406			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	20	Gm20	31387086	31387086	Glycine_max_v4.0				G	A	G			Protein	Amino_acid_content_His	CMLM_Gapit		G	0.002157		-0.21217			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	1	Gm01	33262451	33262451	Glycine_max_v4.0				T	C	C			Protein	Amino_acid_content_Ile	CMLM_Gapit		C	0.144421		0.727668			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	1	Gm01	45320366	45320366	Glycine_max_v4.0				T	C	C			Protein	Amino_acid_content_Ile	CMLM_Gapit		C	0.000341		-1.99542			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	2	Gm02	47034495	47034495	Glycine_max_v4.0				C	T	C			Protein	Amino_acid_content_Ile	CMLM_Gapit		C	0.000793		1.305553			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	2	Gm02	49856130	49856130	Glycine_max_v4.0				G	A	G			Protein	Amino_acid_content_Ile	CMLM_Gapit		G	0.008836		-0.98208			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	2	Gm02	5190606	5190606	Glycine_max_v4.0				G	C	C			Protein	Amino_acid_content_Ile	CMLM_Gapit		C	0.01696		0.910266			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	2	Gm02	6721375	6721375	Glycine_max_v4.0				G	A	A			Protein	Amino_acid_content_Ile	CMLM_Gapit		A	0.277955		0.449633			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	4	Gm04	29795804	29795804	Glycine_max_v4.0				T	G	G			Protein	Amino_acid_content_Ile	CMLM_Gapit		G	0.02951		0.822221			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	4	Gm04	43207187	43207187	Glycine_max_v4.0				C	T	T			Protein	Amino_acid_content_Ile	CMLM_Gapit		T	0.005282		-2.45462			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	4	Gm04	43207248	43207248	Glycine_max_v4.0				G	A	A			Protein	Amino_acid_content_Ile	CMLM_Gapit		A	0.005282		-2.45462			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	4	Gm04	45172948	45172948	Glycine_max_v4.0				G	C	C			Protein	Amino_acid_content_Ile	CMLM_Gapit		C	0.013087		-0.95497			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	5	Gm05	21977894	21977894	Glycine_max_v4.0				C	A	A			Protein	Amino_acid_content_Ile	CMLM_Gapit		A	0.034204		-0.77972			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	10	Gm10	44070578	44070578	Glycine_max_v4.0				A	C	A			Protein	Amino_acid_content_Ile	CMLM_Gapit		A	0.592013		0.21727			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	10	Gm10	45237186	45237186	Glycine_max_v4.0				G	C	C			Protein	Amino_acid_content_Ile	CMLM_Gapit		C	0.000106		-1.43648			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	11	Gm11	38372080	38372080	Glycine_max_v4.0				T	A	A			Protein	Amino_acid_content_Ile	CMLM_Gapit		A	0.000965		-1.46629			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	12	Gm12	1283279	1283279	Glycine_max_v4.0				T	G	G			Protein	Amino_acid_content_Ile	CMLM_Gapit		G	0.037989		-0.76339			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	12	Gm12	2246393	2246393	Glycine_max_v4.0				T	G	T			Protein	Amino_acid_content_Ile	CMLM_Gapit		T	0.001055		-1.35801			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	12	Gm12	37250318	37250318	Glycine_max_v4.0				A	C	C			Protein	Amino_acid_content_Ile	CMLM_Gapit		C	0.931741		0.031077			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	12	Gm12	37253606	37253606	Glycine_max_v4.0				G	C	C			Protein	Amino_acid_content_Ile	CMLM_Gapit		C	0.000412		-1.70481			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	12	Gm12	9802063	9802063	Glycine_max_v4.0				G	T	T			Protein	Amino_acid_content_Ile	CMLM_Gapit		T	0.265051		0.417914			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	13	Gm13	17646967	17646967	Glycine_max_v4.0				T	C	C			Protein	Amino_acid_content_Ile	CMLM_Gapit		C	0.001758		-2.49026			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	13	Gm13	39627980	39627980	Glycine_max_v4.0				G	A	G			Protein	Amino_acid_content_Ile	CMLM_Gapit		G	0.028074		-0.95997			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	13	Gm13	39627983	39627983	Glycine_max_v4.0				C	G	C			Protein	Amino_acid_content_Ile	CMLM_Gapit		C	0.028074		-0.95997			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	13	Gm13	39627986	39627986	Glycine_max_v4.0				T	C	T			Protein	Amino_acid_content_Ile	CMLM_Gapit		T	0.028074		-0.95997			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	13	Gm13	39628010	39628010	Glycine_max_v4.0				T	A	T			Protein	Amino_acid_content_Ile	CMLM_Gapit		T	0.020928		-1.01739			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	13	Gm13	39628014	39628014	Glycine_max_v4.0				A	G	A			Protein	Amino_acid_content_Ile	CMLM_Gapit		A	0.020928		-1.01739			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	13	Gm13	39628016	39628016	Glycine_max_v4.0				C	A	C			Protein	Amino_acid_content_Ile	CMLM_Gapit		C	0.042764		-0.89815			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	13	Gm13	39628019	39628019	Glycine_max_v4.0				C	T	C			Protein	Amino_acid_content_Ile	CMLM_Gapit		C	0.020928		-1.01739			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	13	Gm13	39628049	39628049	Glycine_max_v4.0				A	G	A			Protein	Amino_acid_content_Ile	CMLM_Gapit		A	0.01928		-1.11753			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	13	Gm13	39628054	39628054	Glycine_max_v4.0				G	T	G			Protein	Amino_acid_content_Ile	CMLM_Gapit		G	0.01928		-1.11753			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	16	Gm16	19302037	19302037	Glycine_max_v4.0				G	A	A			Protein	Amino_acid_content_Ile	CMLM_Gapit		A	0.009948		-2.74157			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	16	Gm16	19309923	19309923	Glycine_max_v4.0				C	T	T			Protein	Amino_acid_content_Ile	CMLM_Gapit		T	0.014188		-2.31658			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	16	Gm16	19310296	19310296	Glycine_max_v4.0				G	A	A			Protein	Amino_acid_content_Ile	CMLM_Gapit		A	0.014188		-2.31658			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	16	Gm16	19474288	19474288	Glycine_max_v4.0				C	T	T			Protein	Amino_acid_content_Ile	CMLM_Gapit		T	0.045823		-2.03133			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	16	Gm16	27656811	27656811	Glycine_max_v4.0				C	T	T			Protein	Amino_acid_content_Ile	CMLM_Gapit		T	0.000425		1.433213			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	16	Gm16	27675722	27675722	Glycine_max_v4.0				A	T	T			Protein	Amino_acid_content_Ile	CMLM_Gapit		T	0.005476		1.196072			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	16	Gm16	28109123	28109123	Glycine_max_v4.0				C	T	T			Protein	Amino_acid_content_Ile	CMLM_Gapit		T	0.070685		0.649444			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	16	Gm16	780258	780258	Glycine_max_v4.0				C	A	C			Protein	Amino_acid_content_Ile	CMLM_Gapit		C	0.00454		1.073231			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	18	Gm18	1231280	1231280	Glycine_max_v4.0				G	T	T			Protein	Amino_acid_content_Ile	CMLM_Gapit		T	0.280373		-0.41422			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	18	Gm18	23446982	23446982	Glycine_max_v4.0				C	T	T			Protein	Amino_acid_content_Ile	CMLM_Gapit		T	0.989535		0.009088			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	18	Gm18	23680823	23680823	Glycine_max_v4.0				G	A	A			Protein	Amino_acid_content_Ile	CMLM_Gapit		A	0.527938		0.433926			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	18	Gm18	45637951	45637951	Glycine_max_v4.0				A	C	C			Protein	Amino_acid_content_Ile	CMLM_Gapit		C	0.087349		0.864464			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	19	Gm19	14283927	14283927	Glycine_max_v4.0				C	T	T			Protein	Amino_acid_content_Ile	CMLM_Gapit		T	0.000336		-1.60184			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	19	Gm19	35491961	35491961	Glycine_max_v4.0				C	T	T			Protein	Amino_acid_content_Ile	CMLM_Gapit		T	0.084265		0.674954			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	19	Gm19	35491974	35491974	Glycine_max_v4.0				G	T	T			Protein	Amino_acid_content_Ile	CMLM_Gapit		T	0.034823		0.823214			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	19	Gm19	35491994	35491994	Glycine_max_v4.0				T	C	C			Protein	Amino_acid_content_Ile	CMLM_Gapit		C	0.043704		0.779608			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	19	Gm19	35491998	35491998	Glycine_max_v4.0				A	G	A			Protein	Amino_acid_content_Ile	CMLM_Gapit		A	0.040171		-0.7932			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	19	Gm19	35492018	35492018	Glycine_max_v4.0				C	T	C			Protein	Amino_acid_content_Ile	CMLM_Gapit		C	0.040171		-0.7932			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	19	Gm19	35492028	35492028	Glycine_max_v4.0				T	C	T			Protein	Amino_acid_content_Ile	CMLM_Gapit		T	0.040171		-0.7932			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	19	Gm19	35492061	35492061	Glycine_max_v4.0				T	C	T			Protein	Amino_acid_content_Ile	CMLM_Gapit		T	0.029509		-0.84056			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	19	Gm19	35492063	35492063	Glycine_max_v4.0				T	G	T			Protein	Amino_acid_content_Ile	CMLM_Gapit		T	0.024991		-0.85036			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	20	Gm20	42531505	42531505	Glycine_max_v4.0				C	G	G			Protein	Amino_acid_content_Ile	CMLM_Gapit		G	0.002545		-3.13814			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	5	Gm05	1131617	1131617	Glycine_max_v4.0				G	A	A			Protein	Amino_acid_content_Leu	CMLM_Gapit		A	0.000704		-1.03904			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	11	Gm11	17324386	17324386	Glycine_max_v4.0				T	C	C			Protein	Amino_acid_content_Leu	CMLM_Gapit		C	0.001195		1.631003			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	12	Gm12	1966701	1966701	Glycine_max_v4.0				T	A	A			Protein	Amino_acid_content_Leu	CMLM_Gapit		A	0.004941		-0.70996			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	12	Gm12	2246393	2246393	Glycine_max_v4.0				T	G	T			Protein	Amino_acid_content_Leu	CMLM_Gapit		T	0.017589		-0.67919			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	12	Gm12	37250318	37250318	Glycine_max_v4.0				A	C	C			Protein	Amino_acid_content_Leu	CMLM_Gapit		C	0.035037		-0.6249			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	16	Gm16	27656811	27656811	Glycine_max_v4.0				C	T	T			Protein	Amino_acid_content_Leu	CMLM_Gapit		T	0.001144		0.989902			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	16	Gm16	27675722	27675722	Glycine_max_v4.0				A	T	T			Protein	Amino_acid_content_Leu	CMLM_Gapit		T	0.003326		0.923383			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	18	Gm18	54941806	54941806	Glycine_max_v4.0				T	A	A			Protein	Amino_acid_content_Leu	CMLM_Gapit		A	0.003605		-0.79741			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	18	Gm18	61819070	61819070	Glycine_max_v4.0				G	A	A			Protein	Amino_acid_content_Leu	CMLM_Gapit		A	0.001002		1.025183			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	18	Gm18	61846089	61846089	Glycine_max_v4.0				T	A	A			Protein	Amino_acid_content_Leu	CMLM_Gapit		A	0.00113		1.007442			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	18	Gm18	61846097	61846097	Glycine_max_v4.0				G	A	A			Protein	Amino_acid_content_Leu	CMLM_Gapit		A	0.00113		1.007442			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	18	Gm18	61846199	61846199	Glycine_max_v4.0				G	A	A			Protein	Amino_acid_content_Leu	CMLM_Gapit		A	0.00113		1.007442			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	18	Gm18	61846240	61846240	Glycine_max_v4.0				C	T	T			Protein	Amino_acid_content_Leu	CMLM_Gapit		T	0.000602		1.073108			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	18	Gm18	61846255	61846255	Glycine_max_v4.0				C	T	T			Protein	Amino_acid_content_Leu	CMLM_Gapit		T	0.000499		1.085227			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	18	Gm18	61846357	61846357	Glycine_max_v4.0				A	T	T			Protein	Amino_acid_content_Leu	CMLM_Gapit		T	0.000602		1.073108			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	18	Gm18	829983	829983	Glycine_max_v4.0				G	A	A			Protein	Amino_acid_content_Leu	CMLM_Gapit		A	0.030955		-0.75169			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	18	Gm18	849773	849773	Glycine_max_v4.0				T	C	C			Protein	Amino_acid_content_Leu	CMLM_Gapit		C	0.043945		-0.70722			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	20	Gm20	31240721	31240721	Glycine_max_v4.0				T	A	A			Protein	Amino_acid_content_Leu	CMLM_Gapit		A	0.000374		2.800168			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	20	Gm20	35630363	35630363	Glycine_max_v4.0				A	C	C			Protein	Amino_acid_content_Leu	CMLM_Gapit		C	0.004016		-1.77336			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	20	Gm20	42531505	42531505	Glycine_max_v4.0				C	G	G			Protein	Amino_acid_content_Leu	CMLM_Gapit		G	0.000864		-2.30967			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	6	Gm06	14669414	14669414	Glycine_max_v4.0				G	A	A			Protein	Amino_acid_content_Lys	CMLM_Gapit		A	0.001198		-1.39207			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	8	Gm08	3446621	3446621	Glycine_max_v4.0				C	G	G			Protein	Amino_acid_content_Lys	CMLM_Gapit		G	0.000492		-0.70583			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	8	Gm08	43340095	43340095	Glycine_max_v4.0				T	A	T			Protein	Amino_acid_content_Lys	CMLM_Gapit		T	0.002101		0.420338			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	11	Gm11	36252840	36252840	Glycine_max_v4.0				A	G	G			Protein	Amino_acid_content_Lys	CMLM_Gapit		G	0.000128		-1.12588			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	13	Gm13	38830655	38830655	Glycine_max_v4.0				G	A	G			Protein	Amino_acid_content_Lys	CMLM_Gapit		G	0.006896		-0.49084			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	13	Gm13	41203949	41203949	Glycine_max_v4.0				C	T	C			Protein	Amino_acid_content_Lys	CMLM_Gapit		C	0.000782		-0.50417			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	15	Gm15	42452169	42452169	Glycine_max_v4.0				T	A	A			Protein	Amino_acid_content_Lys	CMLM_Gapit		A	0.006407		0.529095			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	15	Gm15	42452285	42452285	Glycine_max_v4.0				G	A	A			Protein	Amino_acid_content_Lys	CMLM_Gapit		A	0.008376		0.515204			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	16	Gm16	31565242	31565242	Glycine_max_v4.0				T	C	C			Protein	Amino_acid_content_Lys	CMLM_Gapit		C	0.000444		0.595613			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	16	Gm16	31565425	31565425	Glycine_max_v4.0				A	G	G			Protein	Amino_acid_content_Lys	CMLM_Gapit		G	0.000471		0.593401			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	16	Gm16	6737154	6737154	Glycine_max_v4.0				T	C	T			Protein	Amino_acid_content_Lys	CMLM_Gapit		T	0.008753		-0.44068			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	18	Gm18	8944865	8944865	Glycine_max_v4.0				G	C	C			Protein	Amino_acid_content_Lys	CMLM_Gapit		C	0.00215		-1.1475			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	19	Gm19	35492063	35492063	Glycine_max_v4.0				T	G	T			Protein	Amino_acid_content_Lys	CMLM_Gapit		T	0.015083		-0.3041			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	20	Gm20	42569717	42569717	Glycine_max_v4.0				C	T	T			Protein	Amino_acid_content_Lys	CMLM_Gapit		T	0.001333		-0.92402			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	4	Gm04	43207187	43207187	Glycine_max_v4.0				C	T	T			Protein	Amino_acid_content_Phe	CMLM_Gapit		T	0.000631		-1.06311			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	4	Gm04	43207248	43207248	Glycine_max_v4.0				G	A	A			Protein	Amino_acid_content_Phe	CMLM_Gapit		A	0.000631		-1.06311			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	7	Gm07	16345870	16345870	Glycine_max_v4.0				G	A	A			Protein	Amino_acid_content_Phe	CMLM_Gapit		A	0.000462		0.825956			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	11	Gm11	36252840	36252840	Glycine_max_v4.0				A	G	G			Protein	Amino_acid_content_Phe	CMLM_Gapit		G	0.000783		-1.01837			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	12	Gm12	2246393	2246393	Glycine_max_v4.0				T	G	T			Protein	Amino_acid_content_Phe	CMLM_Gapit		T	0.057757		-0.27052			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	15	Gm15	42452169	42452169	Glycine_max_v4.0				T	A	A			Protein	Amino_acid_content_Phe	CMLM_Gapit		A	0.049248		0.394576			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	15	Gm15	42452285	42452285	Glycine_max_v4.0				G	A	A			Protein	Amino_acid_content_Phe	CMLM_Gapit		A	0.061759		0.377401			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	18	Gm18	14877256	14877256	Glycine_max_v4.0				C	T	T			Protein	Amino_acid_content_Phe	CMLM_Gapit		T	0.002377		-0.53017			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	20	Gm20	42531505	42531505	Glycine_max_v4.0				C	G	G			Protein	Amino_acid_content_Phe	CMLM_Gapit		G	0.000154		-1.33516			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	2	Gm02	48215047	48215047	Glycine_max_v4.0				G	T	T			Protein	Amino_acid_content_Pro	CMLM_Gapit		T	0.000885		0.923761			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	3	Gm03	36530224	36530224	Glycine_max_v4.0				T	C	C			Protein	Amino_acid_content_Pro	CMLM_Gapit		C	0.001677		-1.15725			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	3	Gm03	40600088	40600088	Glycine_max_v4.0				A	G	A			Protein	Amino_acid_content_Pro	CMLM_Gapit		A	0.034579		0.714229			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	3	Gm03	40600203	40600203	Glycine_max_v4.0				T	C	T			Protein	Amino_acid_content_Pro	CMLM_Gapit		T	0.034579		0.714229			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	4	Gm04	3722529	3722529	Glycine_max_v4.0				G	A	G			Protein	Amino_acid_content_Pro	CMLM_Gapit		G	0.003461		-0.96442			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	11	Gm11	36391557	36391557	Glycine_max_v4.0									Protein	Amino_acid_content_Pro	CMLM_Gapit			0.007815		0.773887			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	12	Gm12	37699937	37699937	Glycine_max_v4.0				A	G	G			Protein	Amino_acid_content_Pro	CMLM_Gapit		G	0.009958		0.728932			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	12	Gm12	37700016	37700016	Glycine_max_v4.0				G	C	C			Protein	Amino_acid_content_Pro	CMLM_Gapit		C	0.009253		0.73261			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	13	Gm13	40242572	40242572	Glycine_max_v4.0				C	A	A			Protein	Amino_acid_content_Pro	CMLM_Gapit		A	0.03396		0.693765			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	13	Gm13	40242573	40242573	Glycine_max_v4.0				C	T	T			Protein	Amino_acid_content_Pro	CMLM_Gapit		T	0.03396		0.693765			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	13	Gm13	40242709	40242709	Glycine_max_v4.0				T	C	C			Protein	Amino_acid_content_Pro	CMLM_Gapit		C	0.03396		0.693765			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	13	Gm13	41203949	41203949	Glycine_max_v4.0				C	T	C			Protein	Amino_acid_content_Pro	CMLM_Gapit		C	0.005207		-0.80385			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	16	Gm16	26668643	26668643	Glycine_max_v4.0				T	C	C			Protein	Amino_acid_content_Pro	CMLM_Gapit		C	0.023355		-0.8057			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	16	Gm16	26668804	26668804	Glycine_max_v4.0				A	G	G			Protein	Amino_acid_content_Pro	CMLM_Gapit		G	0.024785		0.690388			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	16	Gm16	26760058	26760058	Glycine_max_v4.0				G	A	A			Protein	Amino_acid_content_Pro	CMLM_Gapit		A	0.018775		-0.82249			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	17	Gm17	14444779	14444779	Glycine_max_v4.0				C	T	T			Protein	Amino_acid_content_Pro	CMLM_Gapit		T	0.000406		1.3481			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	17	Gm17	2459036	2459036	Glycine_max_v4.0				C	A	A			Protein	Amino_acid_content_Pro	CMLM_Gapit		A	0.001176		0.898404			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	17	Gm17	2475262	2475262	Glycine_max_v4.0				T	C	C			Protein	Amino_acid_content_Pro	CMLM_Gapit		C	0.000289		1.005066			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	17	Gm17	2674908	2674908	Glycine_max_v4.0				T	C	C			Protein	Amino_acid_content_Pro	CMLM_Gapit		C	0.021036		1.044324			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	17	Gm17	37708047	37708047	Glycine_max_v4.0				A	G	G			Protein	Amino_acid_content_Pro	CMLM_Gapit		G	0.001513		1.094538			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	17	Gm17	37708072	37708072	Glycine_max_v4.0				A	G	G			Protein	Amino_acid_content_Pro	CMLM_Gapit		G	0.001381		1.099332			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	17	Gm17	37708077	37708077	Glycine_max_v4.0				G	A	A			Protein	Amino_acid_content_Pro	CMLM_Gapit		A	0.001381		1.099332			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	17	Gm17	37708117	37708117	Glycine_max_v4.0				T	C	C			Protein	Amino_acid_content_Pro	CMLM_Gapit		C	0.000641		1.16187			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	17	Gm17	37712338	37712338	Glycine_max_v4.0				C	G	G			Protein	Amino_acid_content_Pro	CMLM_Gapit		G	0.000665		1.135646			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	2	Gm02	6721375	6721375	Glycine_max_v4.0				G	A	A			Protein	Amino_acid_content_Ser	CMLM_Gapit		A	0.209883		-0.22871			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	5	Gm05	1956615	1956615	Glycine_max_v4.0				T	C	C			Protein	Amino_acid_content_Ser	CMLM_Gapit		C	0.000165		0.803121			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	7	Gm07	4574178	4574178	Glycine_max_v4.0				G	A	G			Protein	Amino_acid_content_Ser	CMLM_Gapit		G	0.006531		0.450222			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	10	Gm10	48103776	48103776	Glycine_max_v4.0				T	A	A			Protein	Amino_acid_content_Ser	CMLM_Gapit		A	0.22615		-0.24507			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	10	Gm10	48367427	48367427	Glycine_max_v4.0				A	G	G			Protein	Amino_acid_content_Ser	CMLM_Gapit		G	0.012772		0.392146			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	13	Gm13	17646967	17646967	Glycine_max_v4.0				T	C	C			Protein	Amino_acid_content_Ser	CMLM_Gapit		C	0.001416		1.117888			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	13	Gm13	21744787	21744787	Glycine_max_v4.0				C	T	T			Protein	Amino_acid_content_Ser	CMLM_Gapit		T	0.000506		1.172745			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	16	Gm16	35747794	35747794	Glycine_max_v4.0				T	A	A			Protein	Amino_acid_content_Ser	CMLM_Gapit		A	0.029221		0.392992			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	18	Gm18	1449038	1449038	Glycine_max_v4.0				T	C	C			Protein	Amino_acid_content_Ser	CMLM_Gapit		C	0.000858		-0.73278			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	19	Gm19	36853376	36853376	Glycine_max_v4.0				C	T	T			Protein	Amino_acid_content_Ser	CMLM_Gapit		T	1.93E-06		1.095789			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	19	Gm19	36856526	36856526	Glycine_max_v4.0				C	T	T			Protein	Amino_acid_content_Ser	CMLM_Gapit		T	9.30E-07		1.073969			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	2	Gm02	47034495	47034495	Glycine_max_v4.0				C	T	C			Protein	Amino_acid_content_Thr	CMLM_Gapit		C	0.007002		0.394266			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	3	Gm03	36272238	36272238	Glycine_max_v4.0				T	C	C			Protein	Amino_acid_content_Thr	CMLM_Gapit		C	0.001561		-0.58677			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	3	Gm03	36417795	36417795	Glycine_max_v4.0				A	G	G			Protein	Amino_acid_content_Thr	CMLM_Gapit		G	0.00404		-0.51618			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	3	Gm03	36465287	36465287	Glycine_max_v4.0				G	A	A			Protein	Amino_acid_content_Thr	CMLM_Gapit		A	0.000976		-0.59293			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	4	Gm04	29795804	29795804	Glycine_max_v4.0				T	G	G			Protein	Amino_acid_content_Thr	CMLM_Gapit		G	0.02312		0.376338			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	4	Gm04	43207187	43207187	Glycine_max_v4.0				C	T	T			Protein	Amino_acid_content_Thr	CMLM_Gapit		T	0.001933		-1.08501			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	4	Gm04	43207248	43207248	Glycine_max_v4.0				G	A	A			Protein	Amino_acid_content_Thr	CMLM_Gapit		A	0.001933		-1.08501			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	5	Gm05	1131617	1131617	Glycine_max_v4.0				G	A	A			Protein	Amino_acid_content_Thr	CMLM_Gapit		A	0.004142		-0.50685			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	12	Gm12	2246393	2246393	Glycine_max_v4.0				T	G	T			Protein	Amino_acid_content_Thr	CMLM_Gapit		T	0.005628		-0.44839			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	12	Gm12	2246402	2246402	Glycine_max_v4.0				C	G	C			Protein	Amino_acid_content_Thr	CMLM_Gapit		C	0.029595		-0.36656			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	12	Gm12	2246405	2246405	Glycine_max_v4.0				G	A	G			Protein	Amino_acid_content_Thr	CMLM_Gapit		G	0.029595		-0.36656			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	12	Gm12	2246408	2246408	Glycine_max_v4.0				C	T	C			Protein	Amino_acid_content_Thr	CMLM_Gapit		C	0.029595		-0.36656			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	12	Gm12	2246409	2246409	Glycine_max_v4.0				T	C	T			Protein	Amino_acid_content_Thr	CMLM_Gapit		T	0.029595		-0.36656			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	16	Gm16	6737154	6737154	Glycine_max_v4.0				T	C	T			Protein	Amino_acid_content_Thr	CMLM_Gapit		T	0.006506		-0.52906			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	16	Gm16	6737218	6737218	Glycine_max_v4.0				A	G	A			Protein	Amino_acid_content_Thr	CMLM_Gapit		A	0.002553		-0.57075			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	16	Gm16	6737289	6737289	Glycine_max_v4.0				A	G	A			Protein	Amino_acid_content_Thr	CMLM_Gapit		A	0.004401		-0.54618			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	16	Gm16	6737312	6737312	Glycine_max_v4.0				A	G	A			Protein	Amino_acid_content_Thr	CMLM_Gapit		A	0.005821		-0.53632			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	18	Gm18	12797087	12797087	Glycine_max_v4.0				C	T	T			Protein	Amino_acid_content_Thr	CMLM_Gapit		T	0.001051		-1.11307			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	18	Gm18	2026494	2026494	Glycine_max_v4.0				T	G	G			Protein	Amino_acid_content_Thr	CMLM_Gapit		G	0.000353		0.616878			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	18	Gm18	8944865	8944865	Glycine_max_v4.0				G	C	C			Protein	Amino_acid_content_Thr	CMLM_Gapit		C	4.90E-05		-1.77235			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	20	Gm20	42531505	42531505	Glycine_max_v4.0				C	G	G			Protein	Amino_acid_content_Thr	CMLM_Gapit		G	0.000362		-1.41502			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	5	Gm05	1131617	1131617	Glycine_max_v4.0				G	A	A			Protein	Amino_acid_content_Tyr	CMLM_Gapit		A	0.000599		-0.31708			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	5	Gm05	36368612	36368612	Glycine_max_v4.0				A	G	G			Protein	Amino_acid_content_Tyr	CMLM_Gapit		G	0.002933		-0.43571			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	6	Gm06	1655912	1655912	Glycine_max_v4.0				T	G	G			Protein	Amino_acid_content_Tyr	CMLM_Gapit		G	0.019899		0.235877			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	11	Gm11	36252840	36252840	Glycine_max_v4.0				A	G	G			Protein	Amino_acid_content_Tyr	CMLM_Gapit		G	0.001884		-0.55039			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	16	Gm16	36927834	36927834	Glycine_max_v4.0				T	C	T			Protein	Amino_acid_content_Tyr	CMLM_Gapit		T	0.003168		-0.35513			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	16	Gm16	36927871	36927871	Glycine_max_v4.0				A	T	A			Protein	Amino_acid_content_Tyr	CMLM_Gapit		A	0.003168		-0.35513			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	17	Gm17	23967094	23967094	Glycine_max_v4.0				T	G	T			Protein	Amino_acid_content_Tyr	CMLM_Gapit		T	0.000132		-0.50731			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	18	Gm18	54941806	54941806	Glycine_max_v4.0				T	A	A			Protein	Amino_acid_content_Tyr	CMLM_Gapit		A	0.007643		-0.21256			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	19	Gm19	38354186	38354186	Glycine_max_v4.0				C	T	T			Protein	Amino_acid_content_Tyr	CMLM_Gapit		T	0.026026		-0.24074			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	20	Gm20	31240721	31240721	Glycine_max_v4.0				T	A	A			Protein	Amino_acid_content_Tyr	CMLM_Gapit		A	0.000153		0.88758			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	20	Gm20	31240801	31240801	Glycine_max_v4.0				T	C	C			Protein	Amino_acid_content_Tyr	CMLM_Gapit		C	0.000237		0.836451			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	20	Gm20	42531505	42531505	Glycine_max_v4.0				C	G	G			Protein	Amino_acid_content_Tyr	CMLM_Gapit		G	0.001678		-0.64491			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	20	Gm20	42569717	42569717	Glycine_max_v4.0				C	T	T			Protein	Amino_acid_content_Tyr	CMLM_Gapit		T	0.00421		-0.49469			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	2	Gm02	15368490	15368490	Glycine_max_v4.0				C	A	A			Protein	Amino_acid_content_Val	CMLM_Gapit		A	0.019192		-0.84202			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	2	Gm02	47034495	47034495	Glycine_max_v4.0				C	T	C			Protein	Amino_acid_content_Val	CMLM_Gapit		C	0.000369		0.870538			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	2	Gm02	49856130	49856130	Glycine_max_v4.0				G	A	G			Protein	Amino_acid_content_Val	CMLM_Gapit		G	0.001055		-0.76364			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	5	Gm05	21977894	21977894	Glycine_max_v4.0				C	A	A			Protein	Amino_acid_content_Val	CMLM_Gapit		A	0.047696		-0.45354			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	10	Gm10	35214322	35214322	Glycine_max_v4.0				C	T	T			Protein	Amino_acid_content_Val	CMLM_Gapit		T	0.022522		0.851139			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	12	Gm12	1966701	1966701	Glycine_max_v4.0				T	A	A			Protein	Amino_acid_content_Val	CMLM_Gapit		A	0.00024		-0.84797			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	12	Gm12	2246393	2246393	Glycine_max_v4.0				T	G	T			Protein	Amino_acid_content_Val	CMLM_Gapit		T	0.001359		-0.8198			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	15	Gm15	42452169	42452169	Glycine_max_v4.0				T	A	A			Protein	Amino_acid_content_Val	CMLM_Gapit		A	0.169845		0.467284			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	15	Gm15	42452285	42452285	Glycine_max_v4.0				G	A	A			Protein	Amino_acid_content_Val	CMLM_Gapit		A	0.247485		0.3943			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	16	Gm16	19309923	19309923	Glycine_max_v4.0				C	T	T			Protein	Amino_acid_content_Val	CMLM_Gapit		T	0.006797		-1.58756			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	16	Gm16	19310296	19310296	Glycine_max_v4.0				G	A	A			Protein	Amino_acid_content_Val	CMLM_Gapit		A	0.006797		-1.58756			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	16	Gm16	30033799	30033799	Glycine_max_v4.0				G	A	G			Protein	Amino_acid_content_Val	CMLM_Gapit		G	0.046772		-0.49643			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	16	Gm16	31565242	31565242	Glycine_max_v4.0				T	C	C			Protein	Amino_acid_content_Val	CMLM_Gapit		C	0.000107		0.898737			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	16	Gm16	31565425	31565425	Glycine_max_v4.0				A	G	G			Protein	Amino_acid_content_Val	CMLM_Gapit		G	0.000123		0.894294			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	16	Gm16	780258	780258	Glycine_max_v4.0				C	A	C			Protein	Amino_acid_content_Val	CMLM_Gapit		C	0.001383		0.766946			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	19	Gm19	14283927	14283927	Glycine_max_v4.0				C	T	T			Protein	Amino_acid_content_Val	CMLM_Gapit		T	0.001071		-0.8992			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	19	Gm19	35491961	35491961	Glycine_max_v4.0				C	T	T			Protein	Amino_acid_content_Val	CMLM_Gapit		T	0.0128		0.619761			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	19	Gm19	35491974	35491974	Glycine_max_v4.0				G	T	T			Protein	Amino_acid_content_Val	CMLM_Gapit		T	0.007972		0.656639			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	19	Gm19	35491994	35491994	Glycine_max_v4.0				T	C	C			Protein	Amino_acid_content_Val	CMLM_Gapit		C	0.006827		0.663513			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	19	Gm19	35491998	35491998	Glycine_max_v4.0				A	G	A			Protein	Amino_acid_content_Val	CMLM_Gapit		A	0.008026		-0.64943			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	19	Gm19	35492018	35492018	Glycine_max_v4.0				C	T	C			Protein	Amino_acid_content_Val	CMLM_Gapit		C	0.008026		-0.64943			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	19	Gm19	35492028	35492028	Glycine_max_v4.0				T	C	T			Protein	Amino_acid_content_Val	CMLM_Gapit		T	0.008026		-0.64943			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	19	Gm19	35492061	35492061	Glycine_max_v4.0				T	C	T			Protein	Amino_acid_content_Val	CMLM_Gapit		T	0.00481		-0.69079			2019	10.3389/fpls.2019.01445
+РЎРѕСЏ	Glycine max L.	Soybean	Wm82.a1.v1	SNP	19	Gm19	35492063	35492063	Glycine_max_v4.0				T	G	T			Protein	Amino_acid_content_Val	CMLM_Gapit		T	0.005614		-0.66149			2019	10.3389/fpls.2019.01445
