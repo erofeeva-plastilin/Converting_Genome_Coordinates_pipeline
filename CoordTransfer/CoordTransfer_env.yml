@@ -1,0 +1,12 @@
+name: CoordTransfer_env
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - python=3.8
+  - crossmap
+  - pysam
+  - bx-python
+  - pybigwig
+  - numpy
+  - pandas
