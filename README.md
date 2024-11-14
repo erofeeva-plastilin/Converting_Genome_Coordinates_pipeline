@@ -41,7 +41,7 @@ main
     - pos_original_end — конечная позиция региона в исходной сборке      
     Созданный .bed файл именуется аналогично входному файлу (<file_name>.bed).
 3. **Преобразование координат с использованием chain-файла**:      
-    На основе созданного .bed файла и соответствующего chain файла для заданной сборки скрипт с использованием crossmap выполняет перевод координат с исходной сборки на целевую.       
+    На основе созданного .bed файла и соответствующего chain файла для заданной сборки скрипт с использованием crossmap выполняет перевод координат с исходной сборки на целевую (можно отдельно команду выполнить: ```CrossMap bed GCF_000511025.2_RefBeet-1.2.2_genomic.fna.to.GCF_026745355.1_EL10.2_genomic.unmasked.fna.over.chain Sugar_beet_fixed.bed > new_Sugar_beet```).       
     Преобразованные координаты записываются в новые столбцы:        
     - chr_id — название хромосомы в целевой сборке      
     - pos_start — начальная позиция региона в целевой сборке     
@@ -132,6 +132,27 @@ chr_map — TSV файл с соответствием между хромосо
 git clone https://github.com/billzt/pyOverChain.git
 cd pyOverChain
 pip install .
+mkdir ucsc_tools
+cd ucsc_tools
+wget http://hgdownload.soe.ucsc.edu/admin/exe/linux.x86_64/liftUp
+wget http://hgdownload.soe.ucsc.edu/admin/exe/linux.x86_64/axtChain
+wget http://hgdownload.soe.ucsc.edu/admin/exe/linux.x86_64/chainMergeSort
+wget http://hgdownload.soe.ucsc.edu/admin/exe/linux.x86_64/chainSplit
+wget http://hgdownload.soe.ucsc.edu/admin/exe/linux.x86_64/chainNet
+wget http://hgdownload.soe.ucsc.edu/admin/exe/linux.x86_64/netChainSubset
+wget http://hgdownload.soe.ucsc.edu/admin/exe/linux.x86_64/faSplit
+chmod +x axtChain chainMergeSort chainNet chainSplit faSplit liftUp netChainSubset
+echo 'export PATH=/mnt/users/erofeevan/test/pyOverChain/ucsc_tools:$PATH' >> ~/.bashrc # тут надо написать реальный путь до папки ucsc_tools
+source ~/.bashrc
+conda activate /mnt/users/erofeevan/miniconda3/envs/CGCp_env
+cd ../
+cd ../
+mkdir pyoverchain_workdir
+cd pyoverchain_workdir # сюдя копируем нужные две геномные сборки и файл с соответствием хоромосом этих сборок
+# Например
+#cp chr_map.tsv /mnt/users/erofeevan/pyoverchain_workdir/
+#cp /mnt/reference/genomes/beta_vulgaris/GCF_026745355.1/GCF_026745355.1_EL10.2_genomic.unmasked.fna /mnt/users/erofeevan/pyoverchain_workdir/
+#cp /mnt/users/erofeevan/Plant_culture/Sunflower/Sugar_beet/GCF_000511025.2_RefBeet-1.2.2_genomic.fna /mnt/users/erofeevan/pyoverchain_workdir/
 ```
 chromosome-mapping-file - файл соответствия хромосом двух сборок
 ```
@@ -154,20 +175,3 @@ real    998m38.447s
 user    1661m50.487s
 sys     1m4.388s
 ```
-
-
-
-```
-conda activate CGCp_env
-mkdir -p /mnt/users/erofeevan/pyoverchain_workdir
-cd /mnt/users/erofeevan/pyoverchain_workdir
-cp chr_map.tsv /mnt/users/erofeevan/pyoverchain_workdir/
-cp /mnt/reference/genomes/beta_vulgaris/GCF_026745355.1/GCF_026745355.1_EL10.2_genomic.unmasked.fna /mnt/users/erofeevan/pyoverchain_workdir/
-cp /mnt/users/erofeevan/Plant_culture/Sunflower/Sugar_beet/GCF_000511025.2_RefBeet-1.2.2_genomic.fna /mnt/users/erofeevan/pyoverchain_workdir/
-cd /mnt/users/erofeevan/pyoverchain_workdir
-time pyoverchain -n 10 -p 10  GCF_000511025.2_RefBeet-1.2.2_genomic.fna GCF_026745355.1_EL10.2_genomic.unmasked.fna chr_map.tsv
-awk '{print $1, $2, $2}' Sugar_beet.bed > Sugar_beet_fixed.bed
-conda activate crossmap1_env
-CrossMap bed GCF_000511025.2_RefBeet-1.2.2_genomic.fna.to.GCF_026745355.1_EL10.2_genomic.unmasked.fna.over.chain Sugar_beet_fixed.bed > hello
-```
-tmux attach -t 17
