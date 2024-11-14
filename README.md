@@ -97,7 +97,8 @@ coordtransfer -a soybean_a1v1 soybean.tsv output.tsv
 chr_id — название хромосомы в целевой сборке,        
 pos_start — начальная позиция региона в целевой сборке,        
 pos_end — конечная позиция региона в целевой сборке.       
-Кроме этого, сохраняются все промежуточные файлы - созданный .bed файл, а также результат работы crossmap.
+Кроме этого, сохраняются все промежуточные файлы - созданный .bed файл, а также результат работы crossmap.           
+Скрипт поддерживает любой порядок столбцов, главное, чтобы названия не менялись и обязательно были следующие столбцы: chr_original, pos_original, pos_original_end, chr_id, pos_start, pos_end.
 
 ## Сравнение CoordTransfer с SNPLift
 ![image](https://github.com/user-attachments/assets/898f89e8-4a5f-4d15-ad0c-672940bf3e5d)
