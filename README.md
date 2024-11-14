@@ -15,6 +15,7 @@ CoordTransfer/
 │   ├── soybean.tsv             # Пример входного файла
 ├────── results/               
 │  	 ├── soybean_v4.tsv          # Пример выходного файла
+│  	 ├── soybean_v4.bed          # Пример выходного .bed файла
 │  	 ├── soybean_v4.tsv_temp     # Пример выходного файла (результат после crossmap)
 ├── Chain_files/                 
 │   ├── Glycine_max_a1.v1.fasta.to.GCF_000004515.6_Glycine_max_v4.0_genomic.unmasked.fna.over.chain                 
@@ -66,11 +67,6 @@ arguments:
 
   <file_name>.tsv       Input file
 ```
-Пример использования:
-```
-coordtransfer -a soybean_a1v1 soybean.tsv
-```
-В результате выйдет файл soybean_Glycine_max_v4.0.tsv
 
 Список геномных сборок, для которых есть chain файл: 
 ```
@@ -105,7 +101,8 @@ coordtransfer -a soybean_a1v1 soybean.tsv output.tsv
 В результате создается файл output.tsv, содержащий все исходные данные из soybean.tsv, а также столбцы с преобразованными координатами:        
 chr_id — название хромосомы в целевой сборке,        
 pos_start — начальная позиция региона в целевой сборке,        
-pos_end — конечная позиция региона в целевой сборке.        
+pos_end — конечная позиция региона в целевой сборке.       
+Кроме этого, сохраняются все промежуточные файлы - созданный .bed файл, а также результат работы crossmap.
 
 Доступные сборки и chain файлы        
 На данный момент поддерживаются следующие геномные сборки с их соответствующими chain файлами:      
