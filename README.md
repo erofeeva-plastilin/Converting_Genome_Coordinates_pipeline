@@ -51,7 +51,7 @@ git clone https://github.com/erofeeva-plastilin/Converting_Genome_Coordinates_pi
 ```
 Установка зависимостей:
 ```
-cd CoordTransfer
+cd Converting_Genome_Coordinates_pipeline/CoordTransfer
 conda env create -f CoordTransfer_env.yml
 conda activate CoordTransfer_env
 pip install .
