@@ -118,7 +118,7 @@ pos_end — конечная позиция региона в целевой с�
 Параллельное выполнение: для ускорения пайплайн выполняет параллельную обработку нескольких хромосом, используя заданное количество потоков для выполнения задач на уровне каждой хромосомы                                
 Очистка временных файлов: после работы все временные файлы и директории удаляются               
 
-Аргументы командной строки: 
+**Аргументы командной строки:** 
 ```
 old_genome — FASTA файл старой сборки генома
 new_genome — FASTA файл новой сборки генома
@@ -154,7 +154,7 @@ cd pyoverchain_workdir # сюдя копируем нужные две гено�
 #cp /mnt/reference/genomes/beta_vulgaris/GCF_026745355.1/GCF_026745355.1_EL10.2_genomic.unmasked.fna /mnt/users/erofeevan/pyoverchain_workdir/
 #cp /mnt/users/erofeevan/Plant_culture/Sunflower/Sugar_beet/GCF_000511025.2_RefBeet-1.2.2_genomic.fna /mnt/users/erofeevan/pyoverchain_workdir/
 ```
-chromosome-mapping-file - файл соответствия хромосом двух сборок
+**chromosome-mapping-file** - файл соответствия хромосом двух сборок
 ```
 #old_genome_chr new_genome_chr
 chr1    chr1
@@ -169,7 +169,7 @@ time pyoverchain -n 1 -p 20  Glycine_max_a1.v1.fasta GCF_000004515.6_Glycine_max
 time pyoverchain -n 1 -p 23 Glycine_max_a2.v1.fasta GCF_000004515.6_Glycine_max_v4.0_genomic.unmasked.fna chr_map_Glycine_max_a2.v1_to_v4.0.tsv
 time pyoverchain -n 7 -p 3  Pisum_sativum_v1a.fa GCF_024323335.1_CAAS_Psat_ZW6_1.0_genomic.unmasked.fna chr_map_pea.tsv
 ```
-Время работы:
+**Время работы:**
 ```
 # Соя: 
 real    998m38.447s
