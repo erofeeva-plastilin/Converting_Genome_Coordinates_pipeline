@@ -50,11 +50,11 @@ main
     После преобразования координат скрипт создает новый .tsv файл под именем <file_name_assembly>.tsv, где assembly — название целевой сборки. В этот файл записываются все исходные данные, а также новые столбцы с преобразованными координатами (chr_id, pos_start, pos_end).
 
 ## Установка
-Скачивание:
+**Скачивание:**
 ```
 git clone https://github.com/erofeeva-plastilin/Converting_Genome_Coordinates_pipeline.git
 ```
-Установка зависимостей:
+**Установка зависимостей:**
 ```
 cd Converting_Genome_Coordinates_pipeline/CoordTransfer
 conda env create -f CoordTransfer_env.yml
@@ -66,7 +66,7 @@ pip install .
 ```
 coordtransfer [-h] -a <assembly_name> <input_file>.tsv <output_file>.tsv
 ```
-Аргументы
+**Аргументы**
 ```
 -h, --help: Показать справку по использованию и выйти
 -a, --assembly: Название исходной геномной сборки. Должно совпадать с одним из доступных chain файлов (см. список ниже)
@@ -76,8 +76,7 @@ coordtransfer [-h] -a <assembly_name> <input_file>.tsv <output_file>.tsv
     pos_original_end — конечная позиция региона в исходной сборке
 <output_file>.tsv: Имя выходного файла, куда будут записаны преобразованные координаты
 ```
-Доступные сборки и chain файлы        
-На данный момент поддерживаются следующие геномные сборки с их соответствующими chain файлами:      
+**Доступные сборки и chain файлы**            
 ```
 # Soybean:
 soybean_a1v1: /mnt/users/erofeevan/Converting_Genome_Coordinates_pipeline/CoordTransfer/Chain_files/Glycine_max_a1.v1.fasta.to.GCF_000004515.6_Glycine_max_v4.0_genomic.unmasked.fna.over.chain
@@ -85,11 +84,11 @@ soybean_a2v1: /mnt/users/erofeevan/Converting_Genome_Coordinates_pipeline/CoordT
 # Sugar beet:
 refbeet1.2.2: /mnt/users/erofeevan/Converting_Genome_Coordinates_pipeline/CoordTransfer/Chain_files/GCF_000511025.2_RefBeet-1.2.2_genomic.fna.to.GCF_026745355.1_EL10.2_genomic.unmasked.fna.over.chain
 ```
-Целевые сборки          
+**Целевые сборки**          
 Для сои преобразование выполняется на сборку Glycine_max_v4.0.
 Для сахарной свеклы преобразование выполняется на сборку EL10.2.
 
-Пример использования
+**Пример использования**
 ```
 cd data # сюда можно загружать необходимые таблицы  
 coordtransfer -a soybean_a1v1 soybean.tsv output.tsv
