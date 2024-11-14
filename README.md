@@ -121,17 +121,61 @@ refbeet1.2.2: ./Converting_Genome_Coordinates_pipeline/CoordTransfer/Chain_files
 
 ## Сравнение CoordTransfer с SNPLift
 ![image](https://github.com/user-attachments/assets/898f89e8-4a5f-4d15-ad0c-672940bf3e5d)
+Сравнивая перевод 318 позиций, этот скрипт идентично snplift заполнилнил 311 позиций. Оставшиеся 7 позиций: 3 позиции snplift просто не нашел, а этот скрипт смог переести координаты, для еще 4 позиций отличие было в 1 нуклеотид (см. сравнение с snplift в папке Excel). Скорость выполнения скрипта для этого составила 0m1.657s, что значительно быстрее snplift.
 
+# pyOverChain - дополнительный скрипт для создания chain-файлов вручную
 
-# Make_chain - дополнительный скрипт для создания chain-файлов вручную
-Установка зависимостей:
+Скрипт не мой, он взят тут: https://github.com/billzt/pyOverChain 
+**pyOverChain** — это Python-пайплайн для создания chain файлов, необходимых для перевода координат (LiftOver) между разными сборками генома. Он сопоставляет и выравниванивает последовательности из старой и новой сборки генома, чтобы установить соответствие между их координатами. Хромосомы из старой и новой сборок извлекаются и сопоставляются на основании файла chr_map, который задает, каким образом хромосомы старой сборки соответствуют хромосомам новой сборки.
+Судя по коду (лучше я бы не сделала точно, поэтому беру его):                  
+- faSplit: разделение новой хромосомы на сегменты для ускорения обработки               
+- BLAT/pBLAT: выравнивание сегментов новой хромосомы с последовательностями старой хромосомы для поиска участков сходства                   
+- liftUp: преобразование выравниваний в формате PSL для учета хромосомных позиций                    
+- axtChain: создание chain файлов, которые отображают соответствия между старыми и новыми координатами               
+- chainMergeSort и chainNet: объединение и сортировка цепочек выравниваний для создания финальных chain файлов               
+- netChainSubset: окончательное преобразование chain файлов для генерации готового chain файла, пригодного для LiftOver               
+Параллельное выполнение: Для ускорения пайплайн выполняет параллельную обработку нескольких хромосом, используя заданное количество потоков для выполнения задач на уровне каждой хромосомы               
+Очистка временных файлов: По завершении работы все временные файлы и директории удаляются               
+
+Аргументы командной строки: 
 ```
-conda env create -f CGCp_env.yml
-conda activate CGCp_env
+old_genome — FASTA файл старой сборки генома
+new_genome — FASTA файл новой сборки генома
+chr_map — TSV файл с соответствием между хромосомами старой и новой сборок
+-n, --num-chromosome-tasks — количество параллельных задач для обработки хромосом
+-p, --num-threads-pblat — количество потоков для работы pblat
+--disable-progress — отключение отображения прогресса 
 ```
-## Описание Make_chain
+## Установка 
+```
+git clone https://github.com/billzt/pyOverChain.git
+cd pyOverChain
+pip install .
+```
+chromosome-mapping-file - файл соответствия хромосом двух сборок
+```
+#old_genome_chr new_genome_chr
+chr1    chr1
+chr2    chr2
+chr3    chr3
+```
+## Пример запуска 
+```
+time pyoverchain -n 10 -p 10  GCF_000511025.2_RefBeet-1.2.2_genomic.fna GCF_026745355.1_EL10.2_genomic.unmasked.fna chr_map.tsv
+time pyoverchain -n 1 -p 20  Glycine_max_a1.v1.fasta GCF_000004515.6_Glycine_max_v4.0_genomic.unmasked.fna chr_map_Glycine_max_a1v1_to_v4.0.tsv
+time pyoverchain -n 1 -p 23 Glycine_max_a2.v1.fasta GCF_000004515.6_Glycine_max_v4.0_genomic.unmasked.fna chr_map_Glycine_max_a2.v1_to_v4.0.tsv
+time pyoverchain -n 7 -p 3  Pisum_sativum_v1a.fa GCF_024323335.1_CAAS_Psat_ZW6_1.0_genomic.unmasked.fna chr_map_pea.tsv
+```
+Время работы:
+```
+# Соя: 
+real    998m38.447s
+user    1661m50.487s
+sys     1m4.388s
+```
 
-## Пример запуска Make_chain
+
+
 ```
 conda activate CGCp_env
 mkdir -p /mnt/users/erofeevan/pyoverchain_workdir
@@ -146,11 +190,3 @@ conda activate crossmap1_env
 CrossMap bed GCF_000511025.2_RefBeet-1.2.2_genomic.fna.to.GCF_026745355.1_EL10.2_genomic.unmasked.fna.over.chain Sugar_beet_fixed.bed > hello
 ```
 tmux attach -t 17
-time pyoverchain -n 7 -p 3  Pisum_sativum_v1a.fa GCF_024323335.1_CAAS_Psat_ZW6_1.0_genomic.unmasked.fna chr_map_pea.tsv
-```time pyoverchain -n 1 -p 20  Glycine_max_a1.v1.fasta GCF_000004515.6_Glycine_max_v4.0_genomic.unmasked.fna chr_map_Glycine_max_a1v1_to_v4.0.tsv```
-Соя: 
-real    998m38.447s
-user    1661m50.487s
-sys     1m4.388s
-
-```time pyoverchain -n 1 -p 23 Glycine_max_a2.v1.fasta GCF_000004515.6_Glycine_max_v4.0_genomic.unmasked.fna chr_map_Glycine_max_a2.v1_to_v4.0.tsv```
