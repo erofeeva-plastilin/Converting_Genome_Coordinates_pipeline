@@ -58,7 +58,7 @@ pip install .
 ```
 ## Использование CoordTransfer
 ```
-coordtransfer [-h] [-a] <file_name>.tsv
+coordtransfer [-h] [-a] <file_name>.tsv <output_file_name>.tsv
 
 arguments:
   -h, --help            Show this help message and exit
@@ -100,6 +100,7 @@ pos_original_end — конечная позиция региона в исхо�
 Пример использования
 ```
 coordtransfer -a soybean_a1v1 soybean.tsv output.tsv
+
 ```
 В результате создается файл output.tsv, содержащий все исходные данные из soybean.tsv, а также столбцы с преобразованными координатами:        
 chr_id — название хромосомы в целевой сборке,        
