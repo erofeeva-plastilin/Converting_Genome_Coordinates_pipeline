@@ -163,6 +163,7 @@ chr3    chr3
 ```
 ## Пример запуска 
 ```
+cd pyoverchain_workdir # Запускать только в этой директории, иначе он выдает ошибки
 time pyoverchain -n 10 -p 10  GCF_000511025.2_RefBeet-1.2.2_genomic.fna GCF_026745355.1_EL10.2_genomic.unmasked.fna chr_map.tsv
 time pyoverchain -n 1 -p 20  Glycine_max_a1.v1.fasta GCF_000004515.6_Glycine_max_v4.0_genomic.unmasked.fna chr_map_Glycine_max_a1v1_to_v4.0.tsv
 time pyoverchain -n 1 -p 23 Glycine_max_a2.v1.fasta GCF_000004515.6_Glycine_max_v4.0_genomic.unmasked.fna chr_map_Glycine_max_a2.v1_to_v4.0.tsv
