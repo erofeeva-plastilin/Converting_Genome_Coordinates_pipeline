@@ -11,12 +11,12 @@ main
     │   │   ├── io_utils.py             # Функции для чтения и записи файлов                 
     │   │   ├── bed_converter.py        # Функция для создания BED файла                 
     │   │   ├── coord_converter.py      # Функция для преобразования координат через crossmap                 
-    │   │   ├── chain_files.py          # Модуль, где хранится словарь с путями к chain файлам                                  
+    │   │   ├── chain_files.py          # Словарь с путями к chain файлам                                  
     │   ├── data/
     │   │   ├── soybean.tsv             # Пример входного файла
     │   ├────── results/               
     │   │  	 ├── soybean_v4.tsv         # Пример выходного файла
-    │   │  	 ├── soybean_v4.bed         # Пример выходного .bed файла
+    │   │  	 ├── soybean.bed            # Пример выходного .bed файла
     │   │  	 ├── soybean_v4.tsv_temp    # Пример выходного файла (результат после crossmap)
     │   ├── Chain_files/                 
     │   │   ├── Glycine_max_a1.v1.fasta.to.GCF_000004515.6_Glycine_max_v4.0_genomic.unmasked.fna.over.chain                 
