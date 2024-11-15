@@ -1,6 +1,6 @@
 import pandas as pd
 
-REQUIRED_COLUMNS = ['chr_original', 'pos_original', 'pos_original_end']
+REQUIRED_COLUMNS = ['chr_original', 'pos_start_original', 'pos_end_original']
 
 def read_tsv(file_path):
     data = pd.read_csv(file_path, sep='\t')
