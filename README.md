@@ -19,7 +19,8 @@ main
     │   │  	 ├── soybean.bed            # Пример выходного .bed файла
     │   │  	 ├── soybean_v4.tsv_temp    # Пример выходного файла (результат после crossmap)
     │   ├── Chain_files/                 
-    │   │   ├── Glycine_max_a1.v1.fasta.to.GCF_000004515.6_Glycine_max_v4.0_genomic.unmasked.fna.over.chain                 
+    │   │   ├── Glycine_max_a1.v1.fasta.to.GCF_000004515.6_Glycine_max_v4.0_genomic.unmasked.fna.over.chain
+    │   │   ├── Glycine_max_a2.v1.fasta.to.GCF_000004515.6_Glycine_max_v4.0_genomic.unmasked.fna.over.chain                 
     │   │   ├── GCF_000511025.2_RefBeet-1.2.2_genomic.fna.to.GCF_026745355.1_EL10.2_genomic.unmasked.fna.over.chain                 
     │   ├── CoordTransfer_env.yml       # Файл для создания окружения Conda                 
     │   ├── setup.py                    # Скрипт для установки пакета
