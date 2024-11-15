@@ -24,8 +24,8 @@ def parse_crossmap_output(crossmap_output_file):
                 continue
             data.append({
                 "chr_original": parts[0],
-                "pos_original": int(parts[1]),
-                "pos_original_end": int(parts[2]),
+                "pos_start_original": int(parts[1]),
+                "pos_end_original": int(parts[2]),
                 "chr_id": parts[4],
                 "pos_start": int(parts[5]),
                 "pos_end": int(parts[6])
@@ -35,8 +35,8 @@ def parse_crossmap_output(crossmap_output_file):
 def find_mapped_coordinates(row, parsed_data):
     match = parsed_data[
         (parsed_data['chr_original'] == row['chr_original']) &
-        (parsed_data['pos_original'] == row['pos_original']) &
-        (parsed_data['pos_original_end'] == row['pos_original_end'])
+        (parsed_data['pos_start_original'] == row['pos_start_original']) &
+        (parsed_data['pos_end_original'] == row['pos_end_original'])
     ]
 
     if not match.empty:
